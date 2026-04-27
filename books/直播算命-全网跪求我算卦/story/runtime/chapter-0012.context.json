@@ -1,0 +1,115 @@
+{
+  "chapter": 12,
+  "selectedContext": [
+    {
+      "source": "story/current_focus.md",
+      "reason": "Current task focus for this chapter.",
+      "excerpt": "- 第30章已写完：背巷脱身+阴煞沿墙追索衰减+张玄清回信+老陈线回响+30章方向预告"
+    },
+    {
+      "source": "story/current_state.md",
+      "reason": "Preserve hard state facts referenced by mustKeep.",
+      "excerpt": "当前时间线: 周五凌晨近六点；林默与王建国已从翡翠花园背巷撤离，正前往王建国城北老房子"
+    },
+    {
+      "source": "story/story_bible.md",
+      "reason": "Preserve canon constraints referenced by mustKeep.",
+      "excerpt": "\"不能写成职业刑侦或特工式全能\""
+    },
+    {
+      "source": "story/volume_outline.md",
+      "reason": "Anchor the default planning node for this chapter.",
+      "excerpt": "全书按五卷推进，但情绪上不是简单的升级打怪，而是一层层扩大“真相可见范围”与“责任承受范围”。第一卷是直播崛起，主题是“把不被承认的真相强行送进公众视野”。这一卷的情绪主轴是快、狠、连续兑现：林默从被裁后的窘迫和半信半疑出发，以首次直播打开局面，在质疑声里连续算中、连续打脸，先靠失踪女孩案和富二代车祸预言站住脚，再在警方合作、玄学协会接触、特殊顾问身份、寻亲破案、驱邪鉴宝等单元中持续放大影响力。卷尾随着地震预警兑现、国际声望抬升、玄学大学建立和“国师”名号落定，爽感会推到最高，但同时也把个人直播彻底推成公共事件，为后面失控埋雷。第二卷是地府阴司，主题从“证明自己”转为“介入秩序”。情绪由人间的高频热闹转向更深一层的诡谲、荒诞与制度性压迫：林默被任命为阳间阴差，开始直播引渡亡魂，风格上依旧保留观众围观和弹幕反应，但舞台从城市案件延伸到阴司体制。他会在地府一日游式的新鲜感中，快速撞上官僚主义、判官舞弊、十八层地狱的层层阻碍。爽点不再只是“算得准”，而是“看见问题之后敢不敢碰制度”。这一卷越往后越有改革味和秩序撕裂感，直到阴阳两界被真正打通，林默从外来破局者变成代理阴天子，情绪上是一种更冷的高位快感：他赢了，但赢的是一套本来就不想让他赢的系统。第三卷是天界封神，主题是“既然看见了神权，那就不能只改人间和地府”。这一卷的情绪会从地府的幽暗转向天庭的华丽与腐朽并存。天界直播的开启天然有新鲜感和大场面感，神仙看直播、神仙打赏、旧神叛乱、万界围观，这些都会带来更强烈的奇观爽点；可奇观底下是封神秩序的老化和神权合法性的危机。林默在这里不是上去朝拜，而是上去审视、拆解并参与重建。新旧神之战把他的角色从单纯执行者推到秩序监察者，卷尾完成新封神榜、被封监察天尊，是对其权威的一次正式认证，也意味着他再也不能只把自己当成直播行业的异类红人。第四卷是万界征战，主题是“从三界秩序走向文明对撞”。情绪上由前一卷的权力重组进一步推向更开放、更危险的外部世界。其他世界发现地球，首次位面战争打破了“内部改革尚可控”的错觉，万界直播、修仙界科技界魔法界并联、万界大战的公开化，让本书从都市奇诡正式转入文明尺度的博弈。这里的爽点在于视野彻底打开，林默成为万界第一主播，甚至通过创世直播和观众投票制定规则，把“直播”这一形式推到宇宙级项目的高度；但这一卷最重要的情绪不是亢奋，而是陌生感和危机感：当地球第一次不再只是观察者，而是被更大世界观察、评估、觊觎的对象时，一切胜利都开始带有守土意味。第五卷是天道之主，主题回到全书最初也最深的命题：命运到底由谁书写。情绪会先压低，再抬高，最后沉下来。时间直播、天道重构、系统解密、终极选择，会把前四卷积累的所有爽点、谜团、伦理问题和人心账目一起拉回中央。林默不再只是和某个组织、某套体制、某个世界对抗，而是终于面对“天道系统背后的真相——谁在操控命运”这个终极问题。最终的情绪不应是机械性的无敌凯歌，而是一种经过巨大喧哗之后的清醒：如果自由意志真的值得保卫，那它就必须包含放弃某种完美控制权的勇气。"
+    },
+    {
+      "source": "story/chapter_summaries.md#recent_titles",
+      "reason": "Keep recent title history visible to avoid repetitive chapter naming.",
+      "excerpt": "11: 百万功德与寻亲专场"
+    },
+    {
+      "source": "story/chapter_summaries.md#recent_mood_type_trail",
+      "reason": "Keep recent mood and chapter-type cadence visible before writing the next chapter.",
+      "excerpt": "11: 温暖→沉重→紧张 / 回收章+布局章"
+    },
+    {
+      "source": "story/chapters#recent_endings",
+      "reason": "Show how recent chapters ended so the writer avoids structural repetition (e.g. 3 consecutive collapse endings).",
+      "excerpt": "ch10: （下一章预告：玄学协会理事的新身份，第一个寻亲专场，功德值突破100，解锁更多天机符...） | ch11: \"是已经找上门了。\""
+    },
+    {
+      "source": "runtime/hook_debt#hook-1",
+      "reason": "含原始种子文本的叙事债务简报。",
+      "excerpt": "hook-1（unspecified，可兑现旧债，已开11章） | 读者承诺：（未写明） | 种于第0章：story/pending_hooks.md#relationship-132-王建国对周淑-芬案的个人执-念来源揭示: relationship \\ | 推进于第22章：ch22 回头 - 黑影回头感应后林默冒险多取三秒证据，拍到吴东来面部轮廓与熟悉符式手法；起盘失衡中黑布袋被甩出，李雨彤学生卡套与监控调取登记残页落到平台；黑影中探出疑似人手并喊出\"别压\"，现场首次出现\"锚物\"说法"
+    },
+    {
+      "source": "runtime/hook_debt#hook-2",
+      "reason": "含原始种子文本的叙事债务简报。",
+      "excerpt": "hook-2（unspecified，主要旧债，已开11章） | 读者承诺：（未写明） | 种于第0章：story/pending_hooks.md#clue-富贵清晨盯对-面楼顶的警觉-反应被验证: clue \\ | 推进于第22章：ch22 回头 - 黑影回头感应后林默冒险多取三秒证据，拍到吴东来面部轮廓与熟悉符式手法；起盘失衡中黑布袋被甩出，李雨彤学生卡套与监控调取登记残页落到平台；黑影中探出疑似人手并喊出\"别压\"，现场首次出现\"锚物\"说法"
+    },
+    {
+      "source": "story/current_state.md#当前冲突",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前冲突 | ①李雨彤失踪案已从“关联猜测”升级为“实物锚物+疑似人脸显影”的核心主线；②翡翠花园阵盘失衡后果已实锤为会攀附最近感应者、试图以活人顶替锚位；③协会内鬼线获得实物证据——盖有红章的会议残页上出现吴东来、赵姓、方姓，与顺安货运方姓法人可能形成交叉；④主事方可能已通过直播平台实名认证底图锁定林默现实身份；⑤白色面包车已撤离，车牌已获取，挂靠顺安货运公司；⑥失控阴煞追索暂时因距离拉远而中断，但感应路径是否完全切断待确认"
+    },
+    {
+      "source": "story/current_state.md#当前目标",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前目标 | ①在王建国处短暂休整恢复体能；②联系张玄清请求残页笔迹辨认与全名补全；③调查顺安货运公司方姓法人背景及其与协会残页“方”姓的关联；④通过王建国渠道追查白色面包车江C·7Y831行车轨迹；⑤联系刘桂芳确认学生卡套是否为李雨彤旧物；⑥核实监控调取登记残页上的北门周三记录；⑦比对铜片与符式的符法流派"
+    },
+    {
+      "source": "story/current_state.md#主角状态",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "主角状态 | 严重睡眠不足与体能透支，小腿抽筋反复发作，后背被铁窗与墙面划伤，左手虎口被木屑扎伤；明目符几乎见底，铜钱剑在对抗失控阴煞时受损、红绳崩断部分铜钱脱落；主手机屏幕开裂但仍可用；已拿到李雨彤学生卡套（含黄符残片）、监控调取登记残页、协会会议残页（盖有江城分会红章，出现赵、方、吴东来）、六瓣莲花木匣、导引铜片、手抄符式等关键实物证据；已完成证据全景拍照与待办事项清单列项"
+    },
+    {
+      "source": "story/current_state.md#当前限制",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前限制 | 林默已被现场术法感应与执行者双重锁定，存在被反查实名信息的高风险；敌方至少掌握其直播平台证件照复印件；王建国只能提供接应、目击记录、车牌与方向记录，不能越界获取执法级数据；林默身体状态不支持再次高强度正面对抗；当前处于王建国私人住所，暂时安全但非长期据点"
+    },
+    {
+      "source": "story/chapter_summaries.md#11",
+      "reason": "Relevant episodic memory retrieved for the current chapter goal.",
+      "excerpt": "百万功德与寻亲专场 | 寻亲三卦：老陈得子地址/李雨彤信息被遮蔽/凶宅怨念真相 | 功德+12,粉丝愿力归零,主线【黑莲疑云】触发 | H19-H22新增"
+    },
+    {
+      "source": "story/pending_hooks.md#hook-9",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "unspecified | open | near-term | story/pending_hooks.md#clue-张玄清残页辨认-请求待回复: clue \\"
+    },
+    {
+      "source": "story/pending_hooks.md#hook-1",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "unspecified | open | immediate | story/pending_hooks.md#relationship-132-王建国对周淑-芬案的个人执-念来源揭示: relationship \\"
+    },
+    {
+      "source": "story/pending_hooks.md#hook-2",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "unspecified | open | immediate | story/pending_hooks.md#clue-富贵清晨盯对-面楼顶的警觉-反应被验证: clue \\"
+    },
+    {
+      "source": "story/pending_hooks.md#hook-3",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "unspecified | open | immediate | story/pending_hooks.md#case-132-直播间-楼上凌晨拖重-弹幕发展为新: case \\"
+    },
+    {
+      "source": "story/pending_hooks.md#hook-4",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "unspecified | open | immediate | story/pending_hooks.md#clue-132-30cm-铜管确认为引-气管后-揭示: clue \\"
+    },
+    {
+      "source": "story/pending_hooks.md#hook-5",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "unspecified | open | immediate | story/pending_hooks.md#suspense-找到周志远并-揭示他逃跑前-联系了谁: suspense \\"
+    },
+    {
+      "source": "story/pending_hooks.md#hook-6",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "unspecified | open | immediate | story/pending_hooks.md#mystery-陈永强长期住-店的真实原因-经济困难: mystery \\"
+    },
+    {
+      "source": "story/pending_hooks.md#hook-7",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "unspecified | open | immediate | story/pending_hooks.md#threat-举报者再次举-报或以其他方-式干扰林默直: threat \\"
+    }
+  ]
+}

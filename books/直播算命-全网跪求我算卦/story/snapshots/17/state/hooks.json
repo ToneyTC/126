@@ -1,0 +1,74 @@
+{
+  "hooks": [
+    {
+      "hookId": "case-132-直播间-楼上凌晨拖重-弹幕发展为新",
+      "startChapter": 17,
+      "type": "case",
+      "status": "open",
+      "lastAdvancedChapter": 17,
+      "expectedPayoff": "直播间'楼上凌晨拖重物'弹幕发展为新案件或与132号主线产生关联",
+      "payoffTiming": "near-term",
+      "notes": "观众描述：凌晨两三点、持续十几分钟、每隔两三天一次、楼上住户和物业都说正常。林默开始追问细节，章节断在此处"
+    },
+    {
+      "hookId": "clue-132-30cm-铜管确认为引-气管后-揭示",
+      "startChapter": 17,
+      "type": "clue",
+      "status": "progressing",
+      "lastAdvancedChapter": 17,
+      "expectedPayoff": "富贵对132号灵气的异常强烈反应暗示该处灵气浓度或性质不同寻常，后续揭示132号灵气操作的危险程度",
+      "payoffTiming": "mid-arc",
+      "notes": "帆布袋中约30cm铜管有规律刻痕，林默判断可能是引气管（导引纹），与《青囊符录·残卷》描述吻合，但需实物或更清晰图片确认"
+    },
+    {
+      "hookId": "mystery-陈永强长期住-店的真实原因-经济困难",
+      "startChapter": 17,
+      "type": "mystery",
+      "status": "open",
+      "lastAdvancedChapter": 17,
+      "expectedPayoff": "陈永强长期住店的真实原因（经济困难？躲避某人/某事？）",
+      "payoffTiming": "mid-arc",
+      "notes": "仓库角落折叠床旧被子压扁枕头+电热水壶方便面，与其声称'最近装修房子暂住'矛盾，老陈判断长期居住"
+    },
+    {
+      "hookId": "mystery-确认林默返回-途中是否真的-被跟踪",
+      "startChapter": 17,
+      "type": "mystery",
+      "status": "progressing",
+      "lastAdvancedChapter": 17,
+      "expectedPayoff": "揭示陈永强神秘来电者身份及电话内容，确认是否与周志远传唤有关",
+      "payoffTiming": "near-term",
+      "notes": "户籍照片与实际住户外貌严重不符（四十出头圆脸vs六十多岁瘦白发），疑似套用身份；两套房近两年花费近十万，涉及灵气/阵盘/引气管但林默未告诉王建国"
+    },
+    {
+      "hookId": "relationship-132-王建国对周淑-芬案的个人执-念来源揭示",
+      "startChapter": 17,
+      "type": "relationship",
+      "status": "open",
+      "lastAdvancedChapter": 17,
+      "expectedPayoff": "王建国对周淑芬案的个人执念来源揭示",
+      "payoffTiming": "slow-burn",
+      "notes": "林默意识到王建国投入远超职业习惯，亲自去132号踩点，认为周淑芬案触到了王建国某根神经"
+    },
+    {
+      "hookId": "suspense-找到周志远并-揭示他逃跑前-联系了谁",
+      "startChapter": 17,
+      "type": "suspense",
+      "status": "open",
+      "lastAdvancedChapter": 17,
+      "expectedPayoff": "找到周志远并揭示他逃跑前联系了谁、为何逃跑",
+      "payoffTiming": "near-term",
+      "notes": "周志远下午两点签收传唤→三点多拎行李箱离开翠园→五点未到→手机关机→实名购票无记录。王建国明天下午调取通话记录"
+    },
+    {
+      "hookId": "threat-举报者再次举-报或以其他方-式干扰林默直",
+      "startChapter": 17,
+      "type": "threat",
+      "status": "open",
+      "lastAdvancedChapter": 17,
+      "expectedPayoff": "举报者再次举报或以其他方式干扰林默直播",
+      "payoffTiming": "near-term",
+      "notes": "直播解封附加30天内再被举报查实则永封；举报者身份未查明；林默重新开播等于重新暴露在对方视线中"
+    }
+  ]
+}

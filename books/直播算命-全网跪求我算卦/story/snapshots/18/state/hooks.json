@@ -1,0 +1,114 @@
+{
+  "hooks": [
+    {
+      "hookId": "mystery-陈永强长期住-店的真实原因-经济困难",
+      "startChapter": 17,
+      "type": "mystery",
+      "status": "progressing",
+      "lastAdvancedChapter": 18,
+      "expectedPayoff": "陈永强长期住店的真实原因（经济困难？躲避某人/某事？）",
+      "payoffTiming": "mid-arc",
+      "notes": "本章推进：陈永强对老陈不再排斥，愿意让老陈帮忙贴瓷砖甚至主动上手调整，请老陈吃牛肉面——关系改善但个人信息仍高度封闭（老家只说甘肃天水就不再多说）。有贴瓷砖手艺暗示其过去从事过建材/装修相关工作"
+    },
+    {
+      "hookId": "relationship-132-王建国对周淑-芬案的个人执-念来源揭示",
+      "startChapter": 17,
+      "type": "relationship",
+      "status": "progressing",
+      "lastAdvancedChapter": 18,
+      "expectedPayoff": "王建国对周淑芬案的个人执念来源揭示",
+      "payoffTiming": "slow-burn",
+      "notes": "本章推进：林默内心独白明确质疑——'一个律师，亲自跑到132号去踩点，帮他调手机定位数据，帮他查消防记录，这些事情远远超出了一个律师的职业范围'；王建国曾提出借钱被林默回避；林默定性为'可以合作但不能完全依赖'"
+    },
+    {
+      "hookId": "threat-举报者再次举-报或以其他方-式干扰林默直",
+      "startChapter": 17,
+      "type": "threat",
+      "status": "progressing",
+      "lastAdvancedChapter": 18,
+      "expectedPayoff": "举报者再次举报或以其他方式干扰林默直播",
+      "payoffTiming": "near-term",
+      "notes": "本章推进：被封几天后观众流失不少（在线峰值从之前水平降到1420人），打赏收入387元到手不到200元比封号前少近一半；30天条件悬着，林默直播时更加小心不给举报者把柄"
+    },
+    {
+      "hookId": "case-132-直播间-楼上凌晨拖重-弹幕发展为新",
+      "startChapter": 17,
+      "type": "case",
+      "status": "progressing",
+      "lastAdvancedChapter": 19,
+      "expectedPayoff": "翡翠花园天台异响与132号主线产生实质关联，揭示城东区域系统性灵气操作网络",
+      "payoffTiming": "near-term",
+      "notes": "本章多重推进：①林默实地侦察确认六号楼消防梯四楼以上被人为切割（至少半年，切口平整）、五号楼消防梯完整可达楼顶；②发现六号楼东墙新装PVC管（五楼到天台，直径十公分，约十五米）；③郑海平3367号码基站定位显示每周二周五凌晨出现在翡翠花园附近约2.5小时，与天台异响时间完全吻合；④'江城夜猫子'确认消防梯是六号楼北侧的；⑤林默构建完整时间线：去年九月郑海平搬入→十月吴东来迁入→十一月132号消防报警→冬天天台异响开始"
+    },
+    {
+      "hookId": "clue-132-30cm-铜管确认为引-气管后-揭示",
+      "startChapter": 17,
+      "type": "clue",
+      "status": "progressing",
+      "lastAdvancedChapter": 19,
+      "expectedPayoff": "揭示132号灵气操作的完整体系（引气管+阵盘）及其危险程度",
+      "payoffTiming": "near-term",
+      "notes": "本章从理论推进到现实发现：PVC管可能是现代材料替代的放大版引气管（十五米长vs古籍一尺），林默推算配套阵盘直径约半米（按古籍比例1:0.3）。引出关键未知：PVC管内壁是否刻导引纹、阵盘在天台还是五楼房间内。林默重新翻阅残卷引气管章节进行推算"
+    },
+    {
+      "hookId": "mystery-确认林默返回-途中是否真的-被跟踪",
+      "startChapter": 17,
+      "type": "mystery",
+      "status": "progressing",
+      "lastAdvancedChapter": 19,
+      "expectedPayoff": "翡翠花园天台通过外部消防梯进入的可能性被验证，揭示谁在凌晨通过消防梯上天台操作",
+      "payoffTiming": "mid-arc",
+      "notes": "本章新增：陈永强接电话压低声音说'东西到了就行'后将手机从柜台转移到裤兜（防备意识）；老家甘肃天水（问完就不说了）；有贴瓷砖手艺。林默注意到手机位置变化这个细节"
+    },
+    {
+      "hookId": "suspense-找到周志远并-揭示他逃跑前-联系了谁",
+      "startChapter": 17,
+      "type": "suspense",
+      "status": "progressing",
+      "lastAdvancedChapter": 19,
+      "expectedPayoff": "找到周志远并揭示他逃跑前联系了谁、为何逃跑",
+      "payoffTiming": "near-term",
+      "notes": "本章重大推进：通话记录揭示周志远签收传唤后连打三次电话给郑海平（尾号3367），两次接通（2分03秒+1分14秒）。林默判断为'通风报信'，王建国认为'同伙'一词太重但承认联系密切。周志远与132号异常活动存在直接关联已确认。状态从open升级为progressing"
+    },
+    {
+      "hookId": "foreshadow-132-林默梦境中天-台暗红纹路发-光的意象在现",
+      "startChapter": 18,
+      "type": "foreshadow",
+      "status": "open",
+      "lastAdvancedChapter": 18,
+      "expectedPayoff": "林默梦境中天台暗红纹路发光的意象在现实中得到对应（翡翠花园天台或132号楼顶发现类似纹路/阵法痕迹）",
+      "payoffTiming": "near-term",
+      "notes": "梦中天台地面一圈圈从中心向外扩散的暗红色纹路像烧红铁丝，触碰后热气涌上烫手——可能是灵气感应/预知，与引气管导引纹描述呼应"
+    },
+    {
+      "hookId": "mystery-青囊符录-残卷-中被水渍糊掉",
+      "startChapter": 18,
+      "type": "mystery",
+      "status": "open",
+      "lastAdvancedChapter": 18,
+      "expectedPayoff": "《青囊符录·残卷》中被水渍糊掉的引气管单用后果被其他途径揭示",
+      "payoffTiming": "mid-arc",
+      "notes": "引气管单用无阵盘约束'轻则气场紊乱，重则……伤及'——关键危险信息缺失，构成悬念。师父对此类器具态度明确'不碰'，但把书留给了林默"
+    },
+    {
+      "hookId": "clue-富贵清晨盯对-面楼顶的警觉-反应被验证",
+      "startChapter": 18,
+      "type": "clue",
+      "status": "progressing",
+      "lastAdvancedChapter": 19,
+      "expectedPayoff": "翡翠花园五号楼顶楼住户身份确认，验证通过五号楼消防梯上六号楼天台的路径假设",
+      "payoffTiming": "near-term",
+      "notes": "本章再次出现：富贵蹲窗台一动不动盯对面楼顶偏东位置，背脊毛立、肌肉绷紧、尾巴压低、瞳孔收缩成竖线，后颈肌肉硬邦邦。后来跳下吃完猫粮恢复正常。林默问它但没得到答案。行为描写更详细但没有新的解释或验证，不构成推进"
+    },
+    {
+      "hookId": "mystery-3367-无实名预付费-卡持有者身份-被揭示",
+      "startChapter": 19,
+      "type": "mystery",
+      "status": "open",
+      "lastAdvancedChapter": 19,
+      "expectedPayoff": "无实名预付费卡持有者身份被揭示",
+      "payoffTiming": "mid-arc",
+      "notes": "与郑海平3367号码高频通话（隔天一次）的另一个号码，完全匿名，持有者未知。与吴东来并列为郑海平的两个高频联系人"
+    }
+  ]
+}

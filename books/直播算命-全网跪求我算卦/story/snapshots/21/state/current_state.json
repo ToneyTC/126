@@ -1,0 +1,53 @@
+{
+  "chapter": 25,
+  "facts": [
+    {
+      "subject": "protagonist",
+      "predicate": "当前位置",
+      "object": "翡翠花园四号楼背面老居民楼外侧二层狭窄平台/背巷接应点（周五凌晨将尽）",
+      "validFromChapter": 25,
+      "validUntilChapter": null,
+      "sourceChapter": 25
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "主角状态",
+      "object": "严重睡眠不足与体能透支，小腿抽筋反复发作，后背被铁窗与墙面划伤；明目符几乎见底，铜钱剑在对抗失控阴煞时受损、红绳崩断部分铜钱脱落；主手机屏幕开裂但仍可用；已拿到李雨彤学生卡套、监控调取登记残页、协会会议残页、符式与导引铜片等关键实物证据",
+      "validFromChapter": 25,
+      "validUntilChapter": null,
+      "sourceChapter": 25
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前目标",
+      "object": "①先与王建国安全脱离老居民楼背巷，保住证据；②确认白色面包车去向与主事女人身份；③尽快验证李雨彤是否被用作遮蔽网络核心锚物；④梳理吴东来、方远、赵姓参会者与协会内鬼的交叉关系；⑤处理失控阴煞仍在沿墙追索的即时威胁；⑥在不触碰现实边界的前提下把证据转化为可继续追查的线索",
+      "validFromChapter": 25,
+      "validUntilChapter": null,
+      "sourceChapter": 25
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前限制",
+      "object": "林默已被现场术法感应与执行者双重锁定，存在被反查实名信息的高风险；敌方至少掌握其直播平台证件照复印件；当前仍有失控阴煞沿外墙追索；王建国只能提供接应、目击记录、车牌与方向记录，不能越界获取执法级数据；林默身体状态不支持再次高强度正面对抗",
+      "validFromChapter": 25,
+      "validUntilChapter": null,
+      "sourceChapter": 25
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前敌我",
+      "object": "【己方】林默、王建国、富贵；【远程潜在线】张玄清（协会内鬼线关键盟友）、老陈（兰州线暂远程）；【敌方已实锤】吴东来、五号楼主事女人（左耳铜葫芦耳坠）、翡翠花园外围执行者至少数名；【高危异常】阵盘失衡后产生的追索性阴煞/遮蔽黑影",
+      "validFromChapter": 25,
+      "validUntilChapter": null,
+      "sourceChapter": 25
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前冲突",
+      "object": "①李雨彤失踪案已从“关联猜测”升级为“实物锚物+疑似人脸显影”的核心主线；②翡翠花园阵盘失衡后果已实锤为会攀附最近感应者、试图以活人顶替锚位；③协会内鬼线获得实物证据，翡翠花园与协会至少部分成员存在交叉；④主事方可能已通过直播平台实名认证底图锁定林默现实身份；⑤白色面包车正撤离现场，而阴煞仍未散去",
+      "validFromChapter": 25,
+      "validUntilChapter": null,
+      "sourceChapter": 25
+    }
+  ]
+}

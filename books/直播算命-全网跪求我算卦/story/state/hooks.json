@@ -1,0 +1,94 @@
+{
+  "hooks": [
+    {
+      "hookId": "hook-1",
+      "startChapter": 0,
+      "type": "unspecified",
+      "status": "open",
+      "lastAdvancedChapter": 22,
+      "expectedPayoff": "",
+      "payoffTiming": "immediate",
+      "notes": "story/pending_hooks.md#relationship-132-王建国对周淑-芬案的个人执-念来源揭示: relationship \\"
+    },
+    {
+      "hookId": "hook-2",
+      "startChapter": 0,
+      "type": "unspecified",
+      "status": "open",
+      "lastAdvancedChapter": 22,
+      "expectedPayoff": "",
+      "payoffTiming": "immediate",
+      "notes": "story/pending_hooks.md#clue-富贵清晨盯对-面楼顶的警觉-反应被验证: clue \\"
+    },
+    {
+      "hookId": "hook-4",
+      "startChapter": 0,
+      "type": "unspecified",
+      "status": "open",
+      "lastAdvancedChapter": 22,
+      "expectedPayoff": "",
+      "payoffTiming": "immediate",
+      "notes": "story/pending_hooks.md#clue-132-30cm-铜管确认为引-气管后-揭示: clue \\"
+    },
+    {
+      "hookId": "hook-5",
+      "startChapter": 0,
+      "type": "unspecified",
+      "status": "open",
+      "lastAdvancedChapter": 22,
+      "expectedPayoff": "",
+      "payoffTiming": "immediate",
+      "notes": "story/pending_hooks.md#suspense-找到周志远并-揭示他逃跑前-联系了谁: suspense \\"
+    },
+    {
+      "hookId": "hook-6",
+      "startChapter": 0,
+      "type": "unspecified",
+      "status": "open",
+      "lastAdvancedChapter": 22,
+      "expectedPayoff": "",
+      "payoffTiming": "immediate",
+      "notes": "story/pending_hooks.md#mystery-陈永强长期住-店的真实原因-经济困难: mystery \\"
+    },
+    {
+      "hookId": "hook-7",
+      "startChapter": 0,
+      "type": "unspecified",
+      "status": "open",
+      "lastAdvancedChapter": 22,
+      "expectedPayoff": "",
+      "payoffTiming": "immediate",
+      "notes": "story/pending_hooks.md#threat-举报者再次举-报或以其他方-式干扰林默直: threat \\"
+    },
+    {
+      "hookId": "hook-8",
+      "startChapter": 0,
+      "type": "unspecified",
+      "status": "open",
+      "lastAdvancedChapter": 22,
+      "expectedPayoff": "",
+      "payoffTiming": "immediate",
+      "notes": "story/pending_hooks.md#foreshadow-132-林默梦境中天-台暗红纹路发-光的意象在现: foreshadow \\"
+    },
+    {
+      "hookId": "hook-3",
+      "startChapter": 0,
+      "type": "unspecified",
+      "status": "open",
+      "lastAdvancedChapter": 22,
+      "expectedPayoff": "",
+      "payoffTiming": "immediate",
+      "notes": "story/pending_hooks.md#case-132-直播间-楼上凌晨拖重-弹幕发展为新: case \\"
+    },
+    {
+      "hookId": "hook-9",
+      "startChapter": 22,
+      "type": "unspecified",
+      "status": "open",
+      "lastAdvancedChapter": 22,
+      "expectedPayoff": "",
+      "payoffTiming": "near-term",
+      "notes": "story/pending_hooks.md#clue-张玄清残页辨认-请求待回复: clue \\"
+    }
+  ]
+}

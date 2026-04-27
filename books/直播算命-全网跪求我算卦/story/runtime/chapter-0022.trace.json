@@ -1,0 +1,35 @@
+{
+  "chapter": 22,
+  "plannerInputs": [
+    "E:\\inkos\\books\\直播算命-全网跪求我算卦\\story\\runtime\\chapter-0022.intent.md"
+  ],
+  "composerInputs": [
+    "E:\\inkos\\books\\直播算命-全网跪求我算卦\\story\\runtime\\chapter-0022.intent.md"
+  ],
+  "selectedSources": [
+    "story/current_focus.md",
+    "story/current_state.md",
+    "story/story_bible.md",
+    "story/volume_outline.md",
+    "story/chapter_summaries.md#recent_titles",
+    "story/chapter_summaries.md#recent_mood_type_trail",
+    "story/chapters#recent_endings",
+    "story/current_state.md#当前冲突",
+    "story/current_state.md#当前目标",
+    "story/current_state.md#主角状态",
+    "story/current_state.md#当前限制",
+    "story/chapter_summaries.md#14",
+    "story/chapter_summaries.md#15",
+    "story/chapter_summaries.md#20",
+    "story/chapter_summaries.md#21",
+    "story/pending_hooks.md#hook-1",
+    "story/pending_hooks.md#hook-2",
+    "story/pending_hooks.md#hook-4",
+    "story/pending_hooks.md#hook-5",
+    "story/pending_hooks.md#hook-6",
+    "story/pending_hooks.md#hook-7",
+    "story/pending_hooks.md#hook-8",
+    "story/pending_hooks.md#hook-3"
+  ],
+  "notes": []
+}

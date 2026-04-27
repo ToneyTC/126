@@ -1,0 +1,75 @@
+{
+  "chapter": 17,
+  "selectedContext": [
+    {
+      "source": "story/current_focus.md",
+      "reason": "Current task focus for this chapter.",
+      "excerpt": "（描述接下来 1-3 章最需要优先推进的内容。）"
+    },
+    {
+      "source": "story/current_state.md",
+      "reason": "Preserve hard state facts referenced by mustKeep.",
+      "excerpt": "| 字段 | 值 |"
+    },
+    {
+      "source": "story/story_bible.md",
+      "reason": "Preserve canon constraints referenced by mustKeep.",
+      "excerpt": "**时间**：2025年，灵气复苏初期"
+    },
+    {
+      "source": "story/volume_outline.md",
+      "reason": "Anchor the default planning node for this chapter.",
+      "excerpt": "主题：从被裁程序员到全网第一算命主播"
+    },
+    {
+      "source": "story/chapter_summaries.md#recent_titles",
+      "reason": "Keep recent title history visible to avoid repetitive chapter naming.",
+      "excerpt": "16: 环城东路 | 15: 永强建材 | 14: 兰州，雁滩路 | 13: 翠园小区的最后一盏灯 | 12: 环城东路八十八号"
+    },
+    {
+      "source": "story/chapter_summaries.md#recent_mood_type_trail",
+      "reason": "Keep recent mood and chapter-type cadence visible before writing the next chapter.",
+      "excerpt": "16: 紧张专注→发现兴奋→冷静克制→高度警觉 / 事件章+突破章 | 15: 等待焦灼→心疼感动→温暖欣慰→沉思梳理 / 支线推进章+过渡章 | 14: 平静处理→隐忧暗涌→温情（老陈哭泣）→警觉沉思 / 布局章+过渡章 | 13: 平静→沉重→愤怒（观众）→悲悯→警觉 / 回收章+事件章 | 12: 审慎→紧张→警觉→冷静 / 布局章+社交章"
+    },
+    {
+      "source": "story/chapters#recent_endings",
+      "reason": "Show how recent chapters ended so the writer avoids structural repetition (e.g. 3 consecutive collapse endings).",
+      "excerpt": "ch14: 富贵在他旁边蜷成一圈，呼噜声慢慢响了。猫对这些东西比人敏感，它能睡着，说明现在安全了。但林默没睡，铜钱剑横在腿上，... | ch15: 林默把窗帘完全拉上，躺在床上，睁着眼睛。屋里没有开灯，手机屏幕的呼吸灯每隔几秒亮一下，又灭了。他数着那亮灭的节奏，... | ch16: 脚步保持原来的节奏，不加速，不减速。左手插在卫衣口袋里，右手自然下垂。他的心跳快了，但呼吸没变。师父教过他一个土办法："
+    },
+    {
+      "source": "story/current_state.md#当前限制",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前限制 | 直播封禁中（时间未明确，但仍在封禁期）；未携带铜钱剑，无近身防御手段；被人注视/可能被跟踪中；王建国此前明确要求不要出门，林默再次违反；信令数据不能作为法律证据；律师费来源受保密特权保护无法调取"
+    },
+    {
+      "source": "story/current_state.md#当前目标",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前目标 | ①安全返回出租屋（即时）；②将130号交接照片发给王建国；③确认130号与132号的关系（分仓？新据点？）；④确认黑夹克身份；⑤等待王建国调取协会附近茶楼5月8日监控；⑥等待周志远第二次传唤结果（下午五点已安排正式传唤）；⑦132号消防记录（去年11月烧药材）已获取"
+    },
+    {
+      "source": "story/current_state.md#主角状态",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "主角状态 | 高度警觉——返回途中感觉被人从背后注视；明目符已使用1次（本日剩余2/3）；天机窥视未使用（3/3）；功德值105；未携带铜钱剑（留在床头）；穿灰色连帽卫衣+深色运动鞋；手机中存有130号交接现场照片4张（暗光有噪点但可辨认）"
+    },
+    {
+      "source": "story/current_state.md#当前时间线",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前时间线 | 第15章次日（定位数据\"明天下午能拿到\"兑现）；下午三点零七分王建国来电→傍晚六点十分明目符观察对面楼→六点四十三分跟踪灰外套→130号交接→返回途中"
+    },
+    {
+      "source": "story/chapter_summaries.md#14",
+      "reason": "Relevant episodic memory retrieved for the current chapter goal.",
+      "excerpt": "兰州，雁滩路 | 林默天机窥视定位陈永强在兰州雁滩路永强建材店并告知老陈；王建国反馈威胁短信为假身份预付费卡、别克套牌、周志远高铁撒谎；首次使用明目符发现对面楼残留灵气；发现古籍《青囊符录·残卷》与系统同名；王浩转述周淑芬去世前一周陌生男人上五楼 | 天机窥视-1（剩余1次），明目符首次使用-1，直播间被举报审核中 | H40-H45新增6个；H04/H07/H12/H29/H36/H37/H38/H39推进8个"
+    },
+    {
+      "source": "story/chapter_summaries.md#15",
+      "reason": "Relevant episodic memory retrieved for the current chapter goal.",
+      "excerpt": "永强建材 | 老陈在兰州雁滩路找到永强建材店，以买瓷砖为由与陈永强初次接触成功；林默提交直播举报申诉材料；从房东吴姐处得知对面楼三楼住户已搬走约二十天 | 天机窥视/明目符新一天刷新3/3未使用；直播举报申诉已提交审核中；老陈搬至雁滩路招待所 | H46-H51新增6个；H07/H36/H37/H38/H39/H40/H42/H43/H45推进9个"
+    },
+    {
+      "source": "story/chapter_summaries.md#16",
+      "reason": "Relevant episodic memory retrieved for the current chapter goal.",
+      "excerpt": "环城东路 | 王建国提供周志远完整手机定位数据（翠园→环城东路→万达→滨江新城停车场→翠园报警），确认周志远撒谎且当天在环城东路120-140号待了2小时17分钟；132号三单元去年有烧药材报警记录；林默跟踪盯梢人从对面楼至环城东路132号三单元，明目符确认帆布袋中有阵盘材料、三楼窗户灵气外泄空调运转；拍照取证发给王建国；王建国确认户主郑海平即对面楼搬走的姓郑老头；主线任务进入第二阶段 | 明目符3/3→1/3（使用2次）；主线任务升级至第二阶段；盯梢人功能从\"监视\"升级为\"运输+监视\"；对面楼定性为前哨、132号定性为老巢；周志远定位数据完整获取 | H02/H11/H12/H19/H22/H37/H38/H39/H40/H43/H46推进11个；H52-H59新增8个；三条线索（六瓣莲花基站/周志远定位/盯梢人路线）汇聚环城东路132号"
+    }
+  ]
+}

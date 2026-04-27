@@ -1,0 +1,120 @@
+{
+  "chapter": 22,
+  "selectedContext": [
+    {
+      "source": "story/current_focus.md",
+      "reason": "Current task focus for this chapter.",
+      "excerpt": "- 第26章必须先处理“背巷脱身+阴煞沿墙追索”的即时危机，不能直接切回安全复盘；要让林默和王建国在撤离、保物证、规避追兵之间做出取舍。"
+    },
+    {
+      "source": "story/current_state.md",
+      "reason": "Preserve hard state facts referenced by mustKeep.",
+      "excerpt": "当前时间线: 周五凌晨后段；林默在晾晒平台继续取证→捡到李雨彤学生卡套与黄符残片→逃入半层储物间→发现协会会议残页、六瓣莲花木匣、导引铜片与符式→经储物窗翻出老楼外侧雨棚/外沿→王建国于背巷接应→白色面包车开始撤离"
+    },
+    {
+      "source": "story/story_bible.md",
+      "reason": "Preserve canon constraints referenced by mustKeep.",
+      "excerpt": "\"不能写成职业刑侦或特工式全能\""
+    },
+    {
+      "source": "story/volume_outline.md",
+      "reason": "Anchor the default planning node for this chapter.",
+      "excerpt": "全书按五卷推进，但情绪上不是简单的升级打怪，而是一层层扩大“真相可见范围”与“责任承受范围”。第一卷是直播崛起，主题是“把不被承认的真相强行送进公众视野”。这一卷的情绪主轴是快、狠、连续兑现：林默从被裁后的窘迫和半信半疑出发，以首次直播打开局面，在质疑声里连续算中、连续打脸，先靠失踪女孩案和富二代车祸预言站住脚，再在警方合作、玄学协会接触、特殊顾问身份、寻亲破案、驱邪鉴宝等单元中持续放大影响力。卷尾随着地震预警兑现、国际声望抬升、玄学大学建立和“国师”名号落定，爽感会推到最高，但同时也把个人直播彻底推成公共事件，为后面失控埋雷。第二卷是地府阴司，主题从“证明自己”转为“介入秩序”。情绪由人间的高频热闹转向更深一层的诡谲、荒诞与制度性压迫：林默被任命为阳间阴差，开始直播引渡亡魂，风格上依旧保留观众围观和弹幕反应，但舞台从城市案件延伸到阴司体制。他会在地府一日游式的新鲜感中，快速撞上官僚主义、判官舞弊、十八层地狱的层层阻碍。爽点不再只是“算得准”，而是“看见问题之后敢不敢碰制度”。这一卷越往后越有改革味和秩序撕裂感，直到阴阳两界被真正打通，林默从外来破局者变成代理阴天子，情绪上是一种更冷的高位快感：他赢了，但赢的是一套本来就不想让他赢的系统。第三卷是天界封神，主题是“既然看见了神权，那就不能只改人间和地府”。这一卷的情绪会从地府的幽暗转向天庭的华丽与腐朽并存。天界直播的开启天然有新鲜感和大场面感，神仙看直播、神仙打赏、旧神叛乱、万界围观，这些都会带来更强烈的奇观爽点；可奇观底下是封神秩序的老化和神权合法性的危机。林默在这里不是上去朝拜，而是上去审视、拆解并参与重建。新旧神之战把他的角色从单纯执行者推到秩序监察者，卷尾完成新封神榜、被封监察天尊，是对其权威的一次正式认证，也意味着他再也不能只把自己当成直播行业的异类红人。第四卷是万界征战，主题是“从三界秩序走向文明对撞”。情绪上由前一卷的权力重组进一步推向更开放、更危险的外部世界。其他世界发现地球，首次位面战争打破了“内部改革尚可控”的错觉，万界直播、修仙界科技界魔法界并联、万界大战的公开化，让本书从都市奇诡正式转入文明尺度的博弈。这里的爽点在于视野彻底打开，林默成为万界第一主播，甚至通过创世直播和观众投票制定规则，把“直播”这一形式推到宇宙级项目的高度；但这一卷最重要的情绪不是亢奋，而是陌生感和危机感：当地球第一次不再只是观察者，而是被更大世界观察、评估、觊觎的对象时，一切胜利都开始带有守土意味。第五卷是天道之主，主题回到全书最初也最深的命题：命运到底由谁书写。情绪会先压低，再抬高，最后沉下来。时间直播、天道重构、系统解密、终极选择，会把前四卷积累的所有爽点、谜团、伦理问题和人心账目一起拉回中央。林默不再只是和某个组织、某套体制、某个世界对抗，而是终于面对“天道系统背后的真相——谁在操控命运”这个终极问题。最终的情绪不应是机械性的无敌凯歌，而是一种经过巨大喧哗之后的清醒：如果自由意志真的值得保卫，那它就必须包含放弃某种完美控制权的勇气。"
+    },
+    {
+      "source": "story/chapter_summaries.md#recent_titles",
+      "reason": "Keep recent title history visible to avoid repetitive chapter naming.",
+      "excerpt": "21: 起盘 | 20: 周五凌晨 | 19: 消防梯 | 18: 凌晨两点半的声音 | 17: 三楼的空调"
+    },
+    {
+      "source": "story/chapter_summaries.md#recent_mood_type_trail",
+      "reason": "Keep recent mood and chapter-type cadence visible before writing the next chapter.",
+      "excerpt": "21: 逃命惊惧→强行冷静→生理极限→二次冒险→悚然确认→危机再升级 / 追逃章+高处监视章+异象爆发章 | 20: 迟疑压抑→硬着头皮赴险→紧绷潜伏→震惊发凉→瞬间暴露 / 高压行动章+现场实锤章 | 19: 平静分析→震惊（郑海平关联）→专注侦察→后背发凉（PVC管推测）→紧张克制→沉思推理 / 侦察章+信息突破章 | 18: 职业化平静→内心警觉→疲惫感伤→勉强入睡→清晨警觉 / 信息收集章+喘息章 | 17: 警觉紧张→逐步放松→信息密集处理→重新警觉→直播平稳→悬念断章 / 信息整合章+过渡章"
+    },
+    {
+      "source": "story/chapters#recent_endings",
+      "reason": "Show how recent chapters ended so the writer avoids structural repetition (e.g. 3 consecutive collapse endings).",
+      "excerpt": "ch19: “周五凌晨，别去翡翠花园。” | ch20: “我看见你了。” | ch21: 因为他不确定——如果自己真的扭头就跑，那东西会不会追。"
+    },
+    {
+      "source": "story/current_state.md#当前冲突",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前冲突 | ①李雨彤失踪案已从“关联猜测”升级为“实物锚物+疑似人脸显影”的核心主线；②翡翠花园阵盘失衡后果已实锤为会攀附最近感应者、试图以活人顶替锚位；③协会内鬼线获得实物证据，翡翠花园与协会至少部分成员存在交叉；④主事方可能已通过直播平台实名认证底图锁定林默现实身份；⑤白色面包车正撤离现场，而阴煞仍未散去"
+    },
+    {
+      "source": "story/current_state.md#当前目标",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前目标 | ①先与王建国安全脱离老居民楼背巷，保住证据；②确认白色面包车去向与主事女人身份；③尽快验证李雨彤是否被用作遮蔽网络核心锚物；④梳理吴东来、方远、赵姓参会者与协会内鬼的交叉关系；⑤处理失控阴煞仍在沿墙追索的即时威胁；⑥在不触碰现实边界的前提下把证据转化为可继续追查的线索"
+    },
+    {
+      "source": "story/current_state.md#主角状态",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "主角状态 | 严重睡眠不足与体能透支，小腿抽筋反复发作，后背被铁窗与墙面划伤；明目符几乎见底，铜钱剑在对抗失控阴煞时受损、红绳崩断部分铜钱脱落；主手机屏幕开裂但仍可用；已拿到李雨彤学生卡套、监控调取登记残页、协会会议残页、符式与导引铜片等关键实物证据"
+    },
+    {
+      "source": "story/current_state.md#当前限制",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前限制 | 林默已被现场术法感应与执行者双重锁定，存在被反查实名信息的高风险；敌方至少掌握其直播平台证件照复印件；当前仍有失控阴煞沿外墙追索；王建国只能提供接应、目击记录、车牌与方向记录，不能越界获取执法级数据；林默身体状态不支持再次高强度正面对抗"
+    },
+    {
+      "source": "story/chapter_summaries.md#14",
+      "reason": "Relevant episodic memory retrieved for the current chapter goal.",
+      "excerpt": "兰州，雁滩路 | 林默天机窥视定位陈永强在兰州雁滩路永强建材店并告知老陈；王建国反馈威胁短信为假身份预付费卡、别克套牌、周志远高铁撒谎；首次使用明目符发现对面楼残留灵气；发现古籍《青囊符录·残卷》与系统同名；王浩转述周淑芬去世前一周陌生男人上五楼 | 天机窥视-1（剩余1次），明目符首次使用-1，直播间被举报审核中 | H40-H45新增6个；H04/H07/H12/H29/H36/H37/H38/H39推进8个"
+    },
+    {
+      "source": "story/chapter_summaries.md#15",
+      "reason": "Relevant episodic memory retrieved for the current chapter goal.",
+      "excerpt": "永强建材 | 老陈在兰州雁滩路找到永强建材店，以买瓷砖为由与陈永强初次接触成功；林默提交直播举报申诉材料；从房东吴姐处得知对面楼三楼住户已搬走约二十天 | 天机窥视/明目符新一天刷新3/3未使用；直播举报申诉已提交审核中；老陈搬至雁滩路招待所 | H46-H51新增6个；H07/H36/H37/H38/H39/H40/H42/H43/H45推进9个"
+    },
+    {
+      "source": "story/chapter_summaries.md#20",
+      "reason": "Relevant episodic memory retrieved for the current chapter goal.",
+      "excerpt": "周五凌晨 | 林默收到匿名短信后仍决定周五凌晨赴翡翠花园外围蹲点；王建国通过中介熟人和老客户走访补充五号楼顶楼住户信息，确认男方姓吴且冬天起常有半夜搬运异响；林默夜间目击白色面包车运来细长黑布包与半米圆形硬箱，看到五号楼顶楼有人接应、PVC管内暗红流动、六号楼天台拖拽声再现，并用明目符确认红色气丝连向阵盘；在偷拍阵盘时被楼下放哨人手电扫中 | 林默从“侦察确认”进入“高危行动现场”；阵盘从推测升级为实物现身；五号楼与六号楼的引气/起盘配合关系基本成立；外围至少存在第三名放哨人；匿名短信从单纯威胁升级为对方掌握林默动向的证据 | case-132-直播间拖重声 real-scene; clue-132-引气管+阵盘 强推进; foreshadow-梦境红纹 现实映照启动; threat-匿名警告 升级; clue-富贵 远程预警延续"
+    },
+    {
+      "source": "story/chapter_summaries.md#21",
+      "reason": "Relevant episodic memory retrieved for the current chapter goal.",
+      "excerpt": "起盘 | 林默被放哨人发现后借杂物和复杂地形惊险脱身，在后巷确认现场至少有两到三名外围执行者；为避免暴露正脸，他未与追兵正面对抗，而是绕至四号楼背面老居民楼晾晒平台继续观察；目击六号楼天台完整暗红阵纹、五号楼顶楼斜架阵盘与PVC管联动，听见屋内喊出“盘压不住”；富贵自行跟到高处观察点，黑影起身后与林默所在方向产生感应 | 林默体能明显下滑（小腿抽筋、呼吸失控）；备用旧机在逃跑中遗失/损坏；翡翠花园灵气网络从“设备链条”升级为“已实际启动并聚出半成形黑影”；李雨彤失踪案被林默主动联想到可能与遮蔽灵气网络相关；富贵对异常的预警价值首次在高危现场得到实证 | foreshadow-梦境红纹 回收; mystery-青囊符录水渍后果 压力上升; SP02李雨彤线 被自然激活; clue-富贵 现场验证; case-132 进入失控边缘"
+    },
+    {
+      "source": "story/pending_hooks.md#hook-1",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "unspecified | open | story/pending_hooks.md#relationship-132-王建国对周淑-芬案的个人执-念来源揭示: relationship | progressing | 王建国对周淑芬案的个人执念来源揭示 | slow-burn | 本章推进：林默在便利店门口与王建国短讯往来时，更明确意识到对方已不只是“配合查信息”的程度，而是在持续承担接应、兜底和风险预案；林默仍判断其“可以合作但不能完全依赖”，并继续对其越界投入的根源保持疑问"
+    },
+    {
+      "source": "story/pending_hooks.md#hook-2",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "unspecified | open | story/pending_hooks.md#clue-富贵清晨盯对-面楼顶的警觉-反应被验证: clue | progressing | 翡翠花园五号楼顶楼住户身份确认，验证通过五号楼消防梯上六号楼天台的路径假设 | near-term | 本章有效推进：富贵跟上老居民楼高点后，再次对六号楼天台偏东方位出现强烈异常反应；林默现场意识到，富贵此前在出租屋窗台死盯的，正是这一片位置，旧警觉与当夜异象实现更明确对应，但仍待后续形成彻底闭环"
+    },
+    {
+      "source": "story/pending_hooks.md#hook-4",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "unspecified | open | story/pending_hooks.md#clue-132-30cm-铜管确认为引-气管后-揭示: clue | progressing | 揭示132号灵气操作的完整体系（引气管+阵盘）及其危险程度 | near-term | 本章继续推进：林默亲眼看到阵盘盘面对准PVC管工作，暗红流动被持续导向天台；“引气管+阵盘”的配套关系从理论推测进一步接近实景验证，危险程度也由“可能失衡”升级为已形成可视化阴煞人形"
+    },
+    {
+      "source": "story/pending_hooks.md#hook-5",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "unspecified | open | story/pending_hooks.md#suspense-找到周志远并-揭示他逃跑前-联系了谁: suspense | progressing | 找到周志远并揭示他逃跑前联系了谁、为何逃跑 | near-term | 本章无新增硬推进，维持：周志远与郑海平、132号异常活动存在直接关联已确认，后续待由实物证据或现实追查接续"
+    },
+    {
+      "source": "story/pending_hooks.md#hook-6",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "unspecified | open | story/pending_hooks.md#mystery-陈永强长期住-店的真实原因-经济困难: mystery | progressing | 陈永强长期住店的真实原因（经济困难？躲避某人/某事？） | mid-arc | 本章未推进，保持原状态"
+    },
+    {
+      "source": "story/pending_hooks.md#hook-7",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "unspecified | open | story/pending_hooks.md#threat-举报者再次举-报或以其他方-式干扰林默直: threat | progressing | 举报者再次举报或以其他方式干扰林默直播 | near-term | 本章间接推进：敌方已可能掌握林默实名认证底图，现实身份暴露风险进一步上升；后续不排除与既有举报/封禁压力形成联动打击"
+    },
+    {
+      "source": "story/pending_hooks.md#hook-8",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "unspecified | open | story/pending_hooks.md#foreshadow-132-林默梦境中天-台暗红纹路发-光的意象在现: foreshadow | progressing | 林默梦境中天台暗红纹路发光的意象在现实中得到对应（翡翠花园天台或132号楼顶发现类似纹路/阵法痕迹） | near-term | 本章重大推进：六号楼天台暗红纹路近乎完整亮起，形态与林默梦中“一圈圈从中心向外扩散、像烧红铁丝嵌在地里”的景象高度一致，梦境意象已获得强现实对应；待后续补足纹路材质、用途和与132号的具体映射关系后闭环"
+    },
+    {
+      "source": "story/pending_hooks.md#hook-3",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "unspecified | open | story/pending_hooks.md#case-132-直播间-楼上凌晨拖重-弹幕发展为新: case | progressing | 翡翠花园天台异响与132号主线产生实质关联，揭示城东区域系统性灵气操作网络 | near-term | 本章延续实锤：六号楼天台暗红纹路完整亮起，五号楼顶楼阵盘与PVC管形成实际导引配合，说明翡翠花园并非单点异常，而是132号相关遮蔽/引气网络中的关键节点"
+    }
+  ]
+}

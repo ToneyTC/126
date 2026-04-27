@@ -1,0 +1,76 @@
+{
+  "hooks": [
+    {
+      "hookId": "hook-1",
+      "startChapter": 0,
+      "type": "unspecified",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "",
+      "notes": "story/pending_hooks.md#relationship-132-王建国对周淑-芬案的个人执-念来源揭示: relationship | progressing | 王建国对周淑芬案的个人执念来源揭示 | slow-burn | 本章推进：林默在便利店门口与王建国短讯往来时，更明确意识到对方已不只是“配合查信息”的程度，而是在持续承担接应、兜底和风险预案；林默仍判断其“可以合作但不能完全依赖”，并继续对其越界投入的根源保持疑问"
+    },
+    {
+      "hookId": "hook-2",
+      "startChapter": 0,
+      "type": "unspecified",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "",
+      "notes": "story/pending_hooks.md#clue-富贵清晨盯对-面楼顶的警觉-反应被验证: clue | progressing | 翡翠花园五号楼顶楼住户身份确认，验证通过五号楼消防梯上六号楼天台的路径假设 | near-term | 本章有效推进：富贵跟上老居民楼高点后，再次对六号楼天台偏东方位出现强烈异常反应；林默现场意识到，富贵此前在出租屋窗台死盯的，正是这一片位置，旧警觉与当夜异象实现更明确对应，但仍待后续形成彻底闭环"
+    },
+    {
+      "hookId": "hook-3",
+      "startChapter": 0,
+      "type": "unspecified",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "",
+      "notes": "story/pending_hooks.md#case-132-直播间-楼上凌晨拖重-弹幕发展为新: case | progressing | 翡翠花园天台异响与132号主线产生实质关联，揭示城东区域系统性灵气操作网络 | near-term | 本章延续实锤：六号楼天台暗红纹路完整亮起，五号楼顶楼阵盘与PVC管形成实际导引配合，说明翡翠花园并非单点异常，而是132号相关遮蔽/引气网络中的关键节点"
+    },
+    {
+      "hookId": "hook-4",
+      "startChapter": 0,
+      "type": "unspecified",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "",
+      "notes": "story/pending_hooks.md#clue-132-30cm-铜管确认为引-气管后-揭示: clue | progressing | 揭示132号灵气操作的完整体系（引气管+阵盘）及其危险程度 | near-term | 本章继续推进：林默亲眼看到阵盘盘面对准PVC管工作，暗红流动被持续导向天台；“引气管+阵盘”的配套关系从理论推测进一步接近实景验证，危险程度也由“可能失衡”升级为已形成可视化阴煞人形"
+    },
+    {
+      "hookId": "hook-5",
+      "startChapter": 0,
+      "type": "unspecified",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "",
+      "notes": "story/pending_hooks.md#suspense-找到周志远并-揭示他逃跑前-联系了谁: suspense | progressing | 找到周志远并揭示他逃跑前联系了谁、为何逃跑 | near-term | 本章无新增硬推进，维持：周志远与郑海平、132号异常活动存在直接关联已确认，后续待由实物证据或现实追查接续"
+    },
+    {
+      "hookId": "hook-6",
+      "startChapter": 0,
+      "type": "unspecified",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "",
+      "notes": "story/pending_hooks.md#mystery-陈永强长期住-店的真实原因-经济困难: mystery | progressing | 陈永强长期住店的真实原因（经济困难？躲避某人/某事？） | mid-arc | 本章未推进，保持原状态"
+    },
+    {
+      "hookId": "hook-7",
+      "startChapter": 0,
+      "type": "unspecified",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "",
+      "notes": "story/pending_hooks.md#threat-举报者再次举-报或以其他方-式干扰林默直: threat | progressing | 举报者再次举报或以其他方式干扰林默直播 | near-term | 本章间接推进：敌方已可能掌握林默实名认证底图，现实身份暴露风险进一步上升；后续不排除与既有举报/封禁压力形成联动打击"
+    },
+    {
+      "hookId": "hook-8",
+      "startChapter": 0,
+      "type": "unspecified",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "",
+      "notes": "story/pending_hooks.md#foreshadow-132-林默梦境中天-台暗红纹路发-光的意象在现: foreshadow | progressing | 林默梦境中天台暗红纹路发光的意象在现实中得到对应（翡翠花园天台或132号楼顶发现类似纹路/阵法痕迹） | near-term | 本章重大推进：六号楼天台暗红纹路近乎完整亮起，形态与林默梦中“一圈圈从中心向外扩散、像烧红铁丝嵌在地里”的景象高度一致，梦境意象已获得强现实对应；待后续补足纹路材质、用途和与132号的具体映射关系后闭环"
+    }
+  ]
+}
