@@ -1,0 +1,30 @@
+{
+  "chapter": 41,
+  "selectedContext": [
+    {
+      "source": "story/current_focus.md",
+      "reason": "Current task focus for this chapter.",
+      "excerpt": "- 第1章已完成：重生觉醒+空间触发+48箱防灾物资入库"
+    },
+    {
+      "source": "story/current_state.md",
+      "reason": "Preserve hard state facts referenced by mustKeep.",
+      "excerpt": "| 字段 | 值 |"
+    },
+    {
+      "source": "story/current_state.md#当前冲突",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前冲突 | ①丧尸追踪生命密度→据点越大吸引越强②抗生素库存紧张③地下管网打通需要人力时间④一号节点\"青\"字石碑未知"
+    },
+    {
+      "source": "story/current_state.md#当前目标",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前目标 | ①打通地下管网四个节点（4号→3号→2号→1号）②城北军区接触③空间升4级（200万储存价值+100人）④抗生素补充⑤一号节点\"青\"字石碑调查"
+    },
+    {
+      "source": "story/current_state.md#主角状态",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "主角状态 | 空间等级3（500m²+冷藏+水源+基建模式），功德值6/7，波动抑制永久被动，基地管理系统初步建立（空间感知+林雪生命预判共振）"
+    }
+  ]
+}

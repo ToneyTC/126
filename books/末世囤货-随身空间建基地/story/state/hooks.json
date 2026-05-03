@@ -1,0 +1,63 @@
+{
+  "hooks": [
+    {
+      "hookId": "H006",
+      "startChapter": 41,
+      "type": "人物伏笔",
+      "status": "progressing",
+      "lastAdvancedChapter": 42,
+      "expectedPayoff": "Ch42-43",
+      "payoffTiming": "mid-arc",
+      "notes": "王铮电工技能即埋即用——高压带电作业12根端子零失误；林雪递酒精棉片认可"
+    },
+    {
+      "hookId": "H005",
+      "startChapter": 40,
+      "type": "神秘伏笔",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "Ch50+",
+      "payoffTiming": "mid-arc",
+      "notes": "一号节点\"青\"字石碑——本章未涉及"
+    },
+    {
+      "hookId": "H004",
+      "startChapter": 30,
+      "type": "势力接触",
+      "status": "progressing",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "Ch45+",
+      "payoffTiming": "mid-arc",
+      "notes": "城北军区接触——本章未涉及"
+    },
+    {
+      "hookId": "H003",
+      "startChapter": 5,
+      "type": "目标伏笔",
+      "status": "progressing",
+      "lastAdvancedChapter": 42,
+      "expectedPayoff": "Ch42-45",
+      "payoffTiming": "mid-arc",
+      "notes": "地下管网四节点连通——二号节点配电房高压放电通过；雨水管风险增加时间压力"
+    },
+    {
+      "hookId": "H007",
+      "startChapter": 42,
+      "type": "幸存者伏笔",
+      "status": "open",
+      "lastAdvancedChapter": 42,
+      "expectedPayoff": "Ch43-45",
+      "notes": "铁门后7人（含1发烧孩子）——气密门焊死，喷红字\"封控区\"；苏寒暂不破门回据点商议"
+    },
+    {
+      "hookId": "H008",
+      "startChapter": 42,
+      "type": "系统伏笔",
+      "status": "open",
+      "lastAdvancedChapter": 42,
+      "expectedPayoff": "Ch45+",
+      "payoffTiming": "mid-arc",
+      "notes": "功德值校准信号触发——校准进度1/3；末世后功德值规则进入重新评估"
+    }
+  ]
+}

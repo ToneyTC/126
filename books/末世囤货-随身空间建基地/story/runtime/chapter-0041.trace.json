@@ -1,0 +1,25 @@
+{
+  "chapter": 41,
+  "plannerInputs": [
+    "E:\\inkos\\books\\末世囤货-随身空间建基地\\story\\author_intent.md",
+    "E:\\inkos\\books\\末世囤货-随身空间建基地\\story\\current_focus.md",
+    "E:\\inkos\\books\\末世囤货-随身空间建基地\\story\\story_bible.md",
+    "E:\\inkos\\books\\末世囤货-随身空间建基地\\story\\volume_outline.md",
+    "E:\\inkos\\books\\末世囤货-随身空间建基地\\story\\chapter_summaries.md",
+    "E:\\inkos\\books\\末世囤货-随身空间建基地\\story\\book_rules.md",
+    "E:\\inkos\\books\\末世囤货-随身空间建基地\\story\\current_state.md",
+    "E:\\inkos\\books\\末世囤货-随身空间建基地\\story\\pending_hooks.md",
+    "E:\\inkos\\books\\末世囤货-随身空间建基地\\story\\memory.db"
+  ],
+  "composerInputs": [
+    "E:\\inkos\\books\\末世囤货-随身空间建基地\\story\\runtime\\chapter-0041.intent.md"
+  ],
+  "selectedSources": [
+    "story/current_focus.md",
+    "story/current_state.md",
+    "story/current_state.md#当前冲突",
+    "story/current_state.md#当前目标",
+    "story/current_state.md#主角状态"
+  ],
+  "notes": []
+}

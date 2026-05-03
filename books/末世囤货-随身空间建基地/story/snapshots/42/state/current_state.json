@@ -1,0 +1,53 @@
+{
+  "chapter": 42,
+  "facts": [
+    {
+      "subject": "protagonist",
+      "predicate": "当前位置",
+      "object": "三号节点据点→二号节点配电房高压放电测试通过，电缆井铁门发现7个热源",
+      "validFromChapter": 42,
+      "validUntilChapter": null,
+      "sourceChapter": 42
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "主角状态",
+      "object": "空间等级3（500m²+冷藏+水源+基建模式），功德值7（校准中：1/3），波动抑制永久被动，基地管理系统初步建立（空间感知扫描生物体征+地下结构灰绿轮廓），空间升四级需100人（目前据点24人）；二号节点配电房确认可用（12根端子全通电，低压侧三天修复）",
+      "validFromChapter": 42,
+      "validUntilChapter": null,
+      "sourceChapter": 42
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前目标",
+      "object": "①打通地下管网四个节点（4号→3号已完成✓，3号→2号路径已通、配电房待修复低压侧）②城北军区接触③空间升4级（200万储存价值+100人，当前24人，缺口76人）④抗生素补充（储备仍紧张）⑤一号节点\"青\"字石碑调查⑥铁门后7名幸存者身份确认与破门决策",
+      "validFromChapter": 42,
+      "validUntilChapter": null,
+      "sourceChapter": 42
+    },
+    {
+      "subject": "current_state",
+      "predicate": "据点状态",
+      "object": "24人，一道围墙，四条巡逻路线，两个种植区，一个医疗室，防空洞基地扩建中；新增专业电工1名（王铮）进入工作状态并获初步认可；二号节点配电房具备修复条件；已识别雨水管裂缝风险",
+      "validFromChapter": 42,
+      "validUntilChapter": null,
+      "sourceChapter": 42
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前敌我",
+      "object": "【己方核心】苏寒、苏小雨、林雪、陈大勇、孙德胜、陈小满、袁北、赵明远、老方、魏老师、李玉兰【新收编】王铮（高压作业零失误）【未知幸存者】铁门后7人（含1发烧孩子）【威胁】丧尸定向渗透（追踪生命密度）【未知】城北军区枪声、金丝眼镜组织",
+      "validFromChapter": 42,
+      "validUntilChapter": null,
+      "sourceChapter": 42
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前冲突",
+      "object": "①丧尸追踪生命密度→据点越大吸引越强②抗生素库存紧张③地下管网雨水管裂缝隐患→雨季灌水④王铮逐步融入但信任仍在建立⑤空间升四级需100人，当前24人，人口缺口巨大⑥一号节点\"青\"字石碑未解⑦铁门后7人——破门还是绕行？含发烧孩子增加医疗压力",
+      "validFromChapter": 42,
+      "validUntilChapter": null,
+      "sourceChapter": 42
+    }
+  ]
+}

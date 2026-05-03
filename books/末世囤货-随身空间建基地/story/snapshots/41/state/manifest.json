@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 2,
+  "language": "zh",
+  "lastAppliedChapter": 41,
+  "projectionVersion": 1,
+  "migrationWarnings": [
+    "H001:status normalized from \"持续发展中\" to \"open\"",
+    "H001:lastAdvancedChapter normalized from \"Ch41：空间感知能力能扫描30米内结构+生物体征（体温、心跳、呼吸），已成为日常侦查手段\" to 0",
+    "H002:status normalized from \"部分揭示\" to \"open\"",
+    "H002:lastAdvancedChapter normalized from \"Ch41：空间升四级需100人条件被直接提及——“空间升四级需要一百人，他现在连十个都没有”\" to 0",
+    "H003:lastAdvancedChapter normalized from \"Ch41：4号→3号节点已打通\" to 0",
+    "H004:lastAdvancedChapter normalized from \"—\" to 0",
+    "H005:lastAdvancedChapter normalized from \"—\" to 0",
+    "H006:status normalized from \"新埋设\" to \"open\"",
+    "H006:lastAdvancedChapter normalized from \"Ch41埋设：王铮电工专业能力→二号节点高压线需要专业电工处理\" to 0"
+  ]
+}

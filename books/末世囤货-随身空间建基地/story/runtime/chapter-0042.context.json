@@ -1,0 +1,85 @@
+{
+  "chapter": 42,
+  "selectedContext": [
+    {
+      "source": "story/current_focus.md",
+      "reason": "Current task focus for this chapter.",
+      "excerpt": "- 第1章已完成：重生觉醒+空间触发+48箱防灾物资入库"
+    },
+    {
+      "source": "story/audit_drift.md",
+      "reason": "Carry forward audit drift guidance from the previous chapter without polluting hard state facts.",
+      "excerpt": "> 第41章审计发现以下问题，下一章写作时必须避免："
+    },
+    {
+      "source": "story/current_state.md",
+      "reason": "Preserve hard state facts referenced by mustKeep.",
+      "excerpt": "| 字段 | 值 |"
+    },
+    {
+      "source": "story/chapter_summaries.md#recent_titles",
+      "reason": "Keep recent title history visible to avoid repetitive chapter naming.",
+      "excerpt": "41: 活人"
+    },
+    {
+      "source": "story/chapter_summaries.md#recent_mood_type_trail",
+      "reason": "Keep recent mood and chapter-type cadence visible before writing the next chapter.",
+      "excerpt": "41: 紧张→戒备→试探→生存渴望→压抑的希望 / 遭遇/收编章"
+    },
+    {
+      "source": "story/chapters#recent_endings",
+      "reason": "Show how recent chapters ended so the writer avoids structural repetition (e.g. 3 consecutive collapse endings).",
+      "excerpt": "ch39: 章尾钩子：第二次尸潮暴露了抗生素储备的脆弱性。苏寒带小队深夜出发，走地下管网前往人民医院药房。而通道墙上那些被高温... | ch40: 章尾钩子：据点满月。23人，空间Lv3，基建模式启动。但功德值系统进入休眠，200万+100人的Lv4门槛明确却遥... | ch41: 只要能每天吃上一顿饱饭。"
+    },
+    {
+      "source": "runtime/hook_debt#H001",
+      "reason": "含原始种子文本的叙事债务简报。",
+      "excerpt": "H001（能力伏笔，高压旧债，已开41章） | 读者承诺：Ch50+ | 种于第1章：ch41 活人 - 苏寒在四号节点挖掘中发现末世第73天第一个幸存者王铮（电力公司检修工）；经过对峙与压缩饼干试探后获得初步信任；王铮讲述73天地下存活经历（同事全灭，吃光物资后喝管道积水）；带回三号节点，林雪检查确认无感染；苏寒以“需要人干活”的真实动机收编，安排次日向二号节点挖掘；王铮看到物资储备后情绪崩溃边缘，以“每天吃一顿饱饭”为动力接受新身份"
+    },
+    {
+      "source": "runtime/hook_debt#H002",
+      "reason": "含原始种子文本的叙事债务简报。",
+      "excerpt": "H002（空间规则，高压旧债，已开39章） | 读者承诺：Ch50+ | 种于第3章：人口成为升级瓶颈"
+    },
+    {
+      "source": "story/current_state.md#当前目标",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前目标 | ①打通地下管网四个节点（4号→3号已完成✓，3号→2号推进中）②城北军区接触③空间升4级（200万储存价值+100人）④抗生素补充⑤一号节点\"青\"字石碑调查"
+    },
+    {
+      "source": "story/current_state.md#当前冲突",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前冲突 | ①丧尸追踪生命密度→据点越大吸引越强②抗生素库存紧张③地下管网打通需要人力时间（3号→2号节点含高压线，需电工）④一号节点\"青\"字石碑未知⑤首个幸存者王铮的融入与信任建立"
+    },
+    {
+      "source": "story/current_state.md#主角状态",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "主角状态 | 空间等级3（500m²+冷藏+水源+基建模式），功德值6/7，波动抑制永久被动，基地管理系统初步建立（空间感知可扫描生物体征），空间升四级需100人（目前据点23+1=24人）"
+    },
+    {
+      "source": "story/chapter_summaries.md#41",
+      "reason": "Relevant episodic memory retrieved for the current chapter goal.",
+      "excerpt": "活人 | 苏寒在四号节点挖掘中发现末世第73天第一个幸存者王铮（电力公司检修工）；经过对峙与压缩饼干试探后获得初步信任；王铮讲述73天地下存活经历（同事全灭，吃光物资后喝管道积水）；带回三号节点，林雪检查确认无感染；苏寒以“需要人干活”的真实动机收编，安排次日向二号节点挖掘；王铮看到物资储备后情绪崩溃边缘，以“每天吃一顿饱饭”为动力接受新身份 | 据点人数23→24；地下管网4号→3号节点打通完成；新增专业电工劳动力；主角空间感知能力可扫描生物体征得到展示；空间升四级需求100人条件被明确提及 | H001能力伏笔推进（生物体征扫描）；H003目标推进（4→3节点打通）；H006新埋人物伏笔（王铮电工技能→二号节点高压线需求）"
+    },
+    {
+      "source": "story/pending_hooks.md#H006",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "人物伏笔 | open | Ch42-43 | 王铮技能即埋即用，3号→2号节点工程"
+    },
+    {
+      "source": "story/pending_hooks.md#H005",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "神秘伏笔 | progressing | Ch50+ | 一号节点“青”字石碑"
+    },
+    {
+      "source": "story/pending_hooks.md#H004",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "势力接触 | progressing | Ch45+ | mid-arc | 城北军区接触（苏寒迷彩服来自城北军区外围）"
+    },
+    {
+      "source": "story/pending_hooks.md#H003",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "目标伏笔 | progressing | Ch42-45 | mid-arc | 地下管网四节点连通计划"
+    }
+  ]
+}
