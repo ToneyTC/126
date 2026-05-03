@@ -1,0 +1,136 @@
+{
+  "hooks": [
+    {
+      "hookId": "hook-1",
+      "startChapter": 0,
+      "type": "relationship",
+      "status": "open",
+      "lastAdvancedChapter": 32,
+      "expectedPayoff": "第33章可回收",
+      "payoffTiming": "immediate",
+      "notes": "王建国揭示执念来源:周淑芬是他母亲的同事,幼时常塞糖给他。已推进至\"我妈每年忌日都念叨\",第33章可让林默主动询问更多细节"
+    },
+    {
+      "hookId": "hook-2",
+      "startChapter": 0,
+      "type": "clue",
+      "status": "open",
+      "lastAdvancedChapter": 22,
+      "expectedPayoff": "待定",
+      "notes": "富贵清晨盯对面楼顶的警觉反应被验证(已在22章推进,本次未涉及)"
+    },
+    {
+      "hookId": "hook-3",
+      "startChapter": 22,
+      "type": "clue",
+      "status": "open",
+      "lastAdvancedChapter": 24,
+      "expectedPayoff": "待定",
+      "notes": "失控阴煞追索是否完全切断待确认(已在24章推进,本次未涉及)"
+    },
+    {
+      "hookId": "hook-4",
+      "startChapter": 24,
+      "type": "mystery",
+      "status": "open",
+      "lastAdvancedChapter": 24,
+      "expectedPayoff": "待定",
+      "notes": "黑影中疑似李雨彤的脸(已在24章推进,本次未涉及)"
+    },
+    {
+      "hookId": "hook-5",
+      "startChapter": 30,
+      "type": "clue",
+      "status": "open",
+      "lastAdvancedChapter": 30,
+      "expectedPayoff": "待定",
+      "notes": "翡翠花园五号楼新盯梢(已在30章推进,本次未涉及)"
+    },
+    {
+      "hookId": "hook-6",
+      "startChapter": 11,
+      "type": "mystery",
+      "status": "progressing",
+      "lastAdvancedChapter": 30,
+      "expectedPayoff": "31-33",
+      "payoffTiming": "near-term",
+      "notes": "陈永强长期住店的真实原因。第30章重大推进：老陈来电陈永强主动约饭（认亲摊牌窗口正式打开）；林默承诺翡翠花园事后帮查。认亲摊牌从\"温度保持\"升级为\"主动推进\"。"
+    },
+    {
+      "hookId": "hook-7",
+      "startChapter": 13,
+      "type": "threat",
+      "status": "progressing",
+      "lastAdvancedChapter": 30,
+      "expectedPayoff": "持续",
+      "notes": "举报者再次举报或以其他方式干扰林默直播。第30章升级：敌方已通过直播平台实名认证底图获取林默证件照复印件，现实身份暴露风险从\"可能\"升级为\"已实施\"。与既有举报/封禁压力可能形成联动打击。"
+    },
+    {
+      "hookId": "hook-8",
+      "startChapter": 18,
+      "type": "foreshadow",
+      "status": "progressing",
+      "lastAdvancedChapter": 22,
+      "expectedPayoff": "26-30",
+      "payoffTiming": "near-term",
+      "notes": "林默梦境中天台暗红纹路发光在现实对应。第22章重大推进：六号楼天台暗红纹路近乎完整亮起，形态与梦中\"一圈圈从中心向外扩散、像烧红铁丝嵌在地里\"高度一致。已获强现实对应，待补足纹路材质、用途和与132号的具体映射关系后闭环。"
+    },
+    {
+      "hookId": "hook-9",
+      "startChapter": 22,
+      "type": "clue",
+      "status": "open",
+      "lastAdvancedChapter": 32,
+      "expectedPayoff": "第33章可回收",
+      "payoffTiming": "near-term",
+      "notes": "张玄清残页辨认请求待回复。林默在本章确认\"两天未回复,不是张玄清风格\",第33章将主动上门追问"
+    },
+    {
+      "hookId": "hook-10",
+      "startChapter": 32,
+      "type": "clue",
+      "status": "open",
+      "lastAdvancedChapter": 32,
+      "expectedPayoff": "第33-35章",
+      "notes": "郑海宁三辆货车夜间同时从城区三个不同地点发车,方向均非正常物流路线(王建国已派人跟踪)"
+    },
+    {
+      "hookId": "hook-11",
+      "startChapter": 32,
+      "type": "threat",
+      "status": "open",
+      "lastAdvancedChapter": 32,
+      "expectedPayoff": "第33-40章",
+      "notes": "敌方发送书稿出版威胁短信:\"可以写,但出版前得先过我们这关\",表明已渗透至林默下一步计划"
+    },
+    {
+      "hookId": "hook-12",
+      "startChapter": 32,
+      "type": "system",
+      "status": "open",
+      "lastAdvancedChapter": 32,
+      "expectedPayoff": "第33-36章",
+      "notes": "系统弹出三日内西南重大地脉异动预警·震级待确认。要求林默准备公开预警方案"
+    },
+    {
+      "hookId": "hook-13",
+      "startChapter": 22,
+      "type": "clue",
+      "status": "progressing",
+      "lastAdvancedChapter": 30,
+      "expectedPayoff": "31-33",
+      "payoffTiming": "near-term",
+      "notes": "主事女人左耳铜葫芦耳坠为关键识别标记。第22-30章多次出现：储物间外发号施令→隔窗展示证件照→撤离时车窗露面。此特征可用于后续追踪和身份识别。"
+    },
+    {
+      "hookId": "hook-14",
+      "startChapter": 30,
+      "type": "clue",
+      "status": "open",
+      "lastAdvancedChapter": 30,
+      "expectedPayoff": "31-33",
+      "payoffTiming": "near-term",
+      "notes": "张玄清回信\"有些事不方便在手机里说\"——暗示协会内部通信可能被监控，或张玄清本人处于被监视状态。天亮后派人来接的会面将是关键信息节点。"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "chapter": 32,
+  "plannerInputs": [
+    "E:\\inkos\\books\\直播算命-全网跪求我算卦\\story\\author_intent.md",
+    "E:\\inkos\\books\\直播算命-全网跪求我算卦\\story\\current_focus.md",
+    "E:\\inkos\\books\\直播算命-全网跪求我算卦\\story\\story_bible.md",
+    "E:\\inkos\\books\\直播算命-全网跪求我算卦\\story\\volume_outline.md",
+    "E:\\inkos\\books\\直播算命-全网跪求我算卦\\story\\chapter_summaries.md",
+    "E:\\inkos\\books\\直播算命-全网跪求我算卦\\story\\book_rules.md",
+    "E:\\inkos\\books\\直播算命-全网跪求我算卦\\story\\current_state.md",
+    "E:\\inkos\\books\\直播算命-全网跪求我算卦\\story\\pending_hooks.md",
+    "E:\\inkos\\books\\直播算命-全网跪求我算卦\\story\\memory.db"
+  ],
+  "composerInputs": [
+    "E:\\inkos\\books\\直播算命-全网跪求我算卦\\story\\runtime\\chapter-0032.intent.md"
+  ],
+  "selectedSources": [
+    "story/current_focus.md",
+    "story/current_state.md",
+    "story/story_bible.md",
+    "story/volume_outline.md",
+    "story/chapter_summaries.md#recent_titles",
+    "story/chapter_summaries.md#recent_mood_type_trail",
+    "story/chapters#recent_endings",
+    "runtime/hook_debt#hook-1",
+    "runtime/hook_debt#hook-2",
+    "story/current_state.md#当前冲突",
+    "story/current_state.md#当前目标",
+    "story/current_state.md#主角状态",
+    "story/current_state.md#当前限制",
+    "story/chapter_summaries.md#15",
+    "story/chapter_summaries.md#20",
+    "story/chapter_summaries.md#22",
+    "story/chapter_summaries.md#24",
+    "story/pending_hooks.md#hook-9",
+    "story/pending_hooks.md#hook-1"
+  ],
+  "notes": []
+}

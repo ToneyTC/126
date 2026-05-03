@@ -1,0 +1,53 @@
+{
+  "chapter": 32,
+  "facts": [
+    {
+      "subject": "protagonist",
+      "predicate": "当前位置",
+      "object": "城北老房子客厅,直播刚结束",
+      "validFromChapter": 32,
+      "validUntilChapter": null,
+      "sourceChapter": 32
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "主角状态",
+      "object": "铜钱剑红绳已断但铜钱完好(十六枚铜钱已拢回兜里);明目符第三次耗尽(今日3/3);后背创可贴边缘发痒;右腿小腿隐隐发酸;收到敌方威胁短信(书稿出版威胁)",
+      "validFromChapter": 32,
+      "validUntilChapter": null,
+      "sourceChapter": 32
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前目标",
+      "object": "第一卷收尾。已完成:①六卦全中+周德海坛子案算中②餐馆续租卦微型打脸(房东未否认)③在线峰值110万④敌方威胁升级至出版层面。待完成:①明天找张玄清追问残页辨认结果②追查郑海宁三辆货车动向③准备地震预警方案",
+      "validFromChapter": 32,
+      "validUntilChapter": null,
+      "sourceChapter": 32
+    },
+    {
+      "subject": "current_state",
+      "predicate": "当前伏笔",
+      "object": "①方家沟老宅铜牌下落(与导引铜片同源)②方远家族与黑莲符法体系的世代绑定③郑海宁三辆货车夜间同时发车(非正常物流)④敌方已渗透至林默书稿出版计划⑤张玄清残页辨认两天未回复(异常)⑥平台系统连续两次触发审核(持续施压)⑦系统预警三日内西南重大地脉异动",
+      "validFromChapter": 32,
+      "validUntilChapter": null,
+      "sourceChapter": 32
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前敌我",
+      "object": "【己方】林默、王建国、富贵、老陈(支线交代:DNA已提交、永强准备搬来同住);【敌方已确认】顺安货运郑海宁(实控人)、平台审核操控方(已获取林默实名信息)、短信发送方(书稿出版威胁);【待追查】郑海宁三辆货车目的地、方家沟铜牌下落、张玄清异常沉默原因",
+      "validFromChapter": 32,
+      "validUntilChapter": null,
+      "sourceChapter": 32
+    },
+    {
+      "subject": "current_state",
+      "predicate": "下一阶段",
+      "object": "第33章:林默找张玄清追问残页辨认结果+王建国反馈货车轨迹+地震预警方案启动+第一卷终局悬念升级",
+      "validFromChapter": 32,
+      "validUntilChapter": null,
+      "sourceChapter": 32
+    }
+  ]
+}
