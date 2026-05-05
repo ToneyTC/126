@@ -1,0 +1,53 @@
+{
+  "chapter": 43,
+  "facts": [
+    {
+      "subject": "protagonist",
+      "predicate": "当前位置",
+      "object": "一号节点（老式泵站大厅）已打通并进入勘查；二号节点配电房低压侧全恢复，三号节点恢复50千瓦供电（照明/水泵/紫外线消毒灯）；一号节点发现“青”字石板及石板下竖井（深约4米水面+水下高温高密异物）",
+      "validFromChapter": 43,
+      "validUntilChapter": null,
+      "sourceChapter": 43
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "主角状态",
+      "object": "空间等级3（500m²+冷藏+水源+基建模式），功德值7（校准中：1/3），波动抑制永久被动，基地管理系统初步建立（空间感知扫描生物体征+地下结构灰绿轮廓+温度/密度异常探测），空间升四级需100人（目前据点24人）；确认王铮能力后可定位“知道能力但看不到身份”的信息边界",
+      "validFromChapter": 43,
+      "validUntilChapter": null,
+      "sourceChapter": 43
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前目标",
+      "object": "①一号节点“青”字石碑竖井调查（水下异物，温度密度异常）②明天早上从一号节点上地表侦察城北军区（距围墙不到800米）③空间升4级（200万储存价值+100人，当前24人，缺口76人）④抗生素补充（储备仍紧张）⑤一号节点线路检查与通电（新节点新需求）",
+      "validFromChapter": 43,
+      "validUntilChapter": null,
+      "sourceChapter": 43
+    },
+    {
+      "subject": "current_state",
+      "predicate": "据点状态",
+      "object": "24人，地下管网四节点物理贯通（4→3→2→1全通），供电恢复（50千瓦稳定负荷，备用两路给冷藏和供暖水泵），两个种植区，一个医疗室；王铮完成供电修复并获情感认可；新增袁北为电工助手（半年学徒经验）；挖掘流水线运作成熟（陈大勇+老方+魏老师）",
+      "validFromChapter": 43,
+      "validUntilChapter": null,
+      "sourceChapter": 43
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前敌我",
+      "object": "【己方核心】苏寒、苏小雨、林雪、陈大勇、孙德胜、陈小满、袁北（电工助手新定位）、赵明远（侦察/军事）、老方、魏老师、李玉兰【新收编】王铮（供电修复完成，电工权威确立）【威胁】丧尸定向渗透（追踪生命密度）【未知】城北军区枪声后状态（昨晚十点自动步枪交火四十分钟，停火六小时无二次交火，判断防线被突破/残部突围）、石板下竖井异物（高密度高温）",
+      "validFromChapter": 43,
+      "validUntilChapter": null,
+      "sourceChapter": 43
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前冲突",
+      "object": "①丧尸追踪生命密度→据点越大吸引越强②抗生素库存紧张③地下管网雨水管裂缝隐患→雨季灌水（王铮已预警但未修复）④空间升四级需100人，当前24人，人口缺口巨大⑤一号节点“青”字石碑竖井——水下异物待查明⑥城北军区状况不明——明早侦察决策⑦供暖水泵修复需在冬天前完成（新浮现的时间压力）",
+      "validFromChapter": 43,
+      "validUntilChapter": null,
+      "sourceChapter": 43
+    }
+  ]
+}

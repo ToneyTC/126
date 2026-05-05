@@ -1,1 +1,90 @@
-{}
+{
+  "chapter": 43,
+  "selectedContext": [
+    {
+      "source": "story/current_focus.md",
+      "reason": "Current task focus for this chapter.",
+      "excerpt": "- 第1章已完成：重生觉醒+空间触发+48箱防灾物资入库"
+    },
+    {
+      "source": "story/current_state.md",
+      "reason": "Preserve hard state facts referenced by mustKeep.",
+      "excerpt": "| 字段 | 值 |"
+    },
+    {
+      "source": "story/volume_outline.md",
+      "reason": "Anchor the default planning node for this chapter.",
+      "excerpt": "建立据点基础，完成地下管网四节点贯通，收编首批核心幸存者。"
+    },
+    {
+      "source": "story/chapter_summaries.md#recent_titles",
+      "reason": "Keep recent title history visible to avoid repetitive chapter naming.",
+      "excerpt": "42: 铁门之后 | 41: 活人"
+    },
+    {
+      "source": "story/chapter_summaries.md#recent_mood_type_trail",
+      "reason": "Keep recent mood and chapter-type cadence visible before writing the next chapter.",
+      "excerpt": "42: 务实→紧张→克制→沉静决断 / 推进/发现章 | 41: 紧张→戒备→试探→生存渴望→压抑的希望 / 遭遇/收编章"
+    },
+    {
+      "source": "story/chapters#recent_endings",
+      "reason": "Show how recent chapters ended so the writer avoids structural repetition (e.g. 3 consecutive collapse endings).",
+      "excerpt": "ch41: 章尾钩子：王铮加入据点，总人数升至24人。但二号节点的高压线比王铮预想的更复杂——电缆井里不止有六千伏的高压残留，... | ch42: 没点书架的兄弟点一下，追读就是最好的催更。"
+    },
+    {
+      "source": "runtime/hook_debt#H001",
+      "reason": "含原始种子文本的叙事债务简报。",
+      "excerpt": "H001（能力伏笔，高压旧债，已开42章） | 读者承诺：Ch50+ | 种于第1章：ch41 活人 - 苏寒在四号节点挖掘中发现末世第23天第一个幸存者王铮（电力公司检修工）；经过对峙与压缩饼干试探后获得初步信任；王铮讲述23天地下存活经历（同事全灭，吃光物资后喝管道积水）；带回三号节点，林雪检查确认无感染；苏寒以\"需要人干活\"的真实动机收编，安排次日向二号节点挖掘；王铮看到物资储备后情绪崩溃边缘，以\"每天吃一顿饱饭\"为动力接受新身份"
+    },
+    {
+      "source": "runtime/hook_debt#H002",
+      "reason": "含原始种子文本的叙事债务简报。",
+      "excerpt": "H002（空间规则，高压旧债，已开40章） | 读者承诺：Ch50+ | 种于第3章：人口成为升级瓶颈"
+    },
+    {
+      "source": "story/current_state.md#当前敌我",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前敌我 | 【己方核心】陆焚、苏寒、苏小雨、林雪、陈大勇、孙德胜、陈小满、袁北、赵明远、老方、魏老师、李玉兰【新收编】王铮（已投入工作，次日开工）【外围幸存者】玉兰小区5人已收编【威胁】丧尸定向渗透（追踪生命密度）、第二次尸潮刚击退【未知】城北城东两个空间信号回应、城北军区枪声、F市人民医院药房已清空（纸条信息）"
+    },
+    {
+      "source": "story/current_state.md#当前冲突",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前冲突 | ①丧尸追踪生命密度→据点越大吸引越强②抗生素库存获临时补充但仍有限（够三次严重感染）③地下管网雨水管裂缝隐患→雨季灌水将导致电缆报废（需材料+人力抢修）④王铮逐步融入但信任仍在建立⑤空间升四级需100人，当前24人，人口缺口巨大⑥一号节点\"青\"字石碑未解"
+    },
+    {
+      "source": "story/current_state.md#当前目标",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前目标 | ①打通地下管网四个节点（4号→3号已完成✓，3号→2号路径已通、配电房勘查完成，待修复供电）②城北军区接触③空间升4级（200万储存价值+100人，当前24人，缺口76人）④抗生素补充（二号节点获20+盒硫酸阿米卡星，够三次严重感染，临时缓解）⑤一号节点\"青\"字石碑调查"
+    },
+    {
+      "source": "story/current_state.md#主角状态",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "主角状态 | 空间等级3（500m²+冷藏+水源+基建模式），功德值6/7，波动抑制永久被动，基地管理系统初步建立（空间感知扫描生物体征+地下结构灰绿轮廓），空间升四级需100人（目前据点24人）；二号节点配电房确认可用（3天可修复低压侧）"
+    },
+    {
+      "source": "story/chapter_summaries.md#41",
+      "reason": "Relevant episodic memory retrieved for the current chapter goal.",
+      "excerpt": "活人 | 陆焚在四号节点挖掘中发现末世第73天第一个幸存者王铮（电力公司检修工）；经过对峙与压缩饼干试探后获得初步信任；王铮讲述73天地下存活经历（同事全灭，吃光物资后喝管道积水）；带回三号节点，林雪检查确认无感染；陆焚以“需要人干活”的真实动机收编，安排次日向二号节点挖掘；王铮看到物资储备后情绪崩溃边缘，以“每天吃一顿饱饭”为动力接受新身份 | 据点人数23→24；地下管网4号→3号节点打通完成；新增专业电工劳动力；主角空间感知能力可扫描生物体征得到展示；空间升四级需求100人条件被明确提及 | H001能力伏笔推进（生物体征扫描）；H003目标推进（4→3节点打通）；H006新埋人物伏笔（王铮电工技能→二号节点高压线需求）"
+    },
+    {
+      "source": "story/pending_hooks.md#H006",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "人物伏笔 | open | Ch42-43 | 王铮技能即埋即用，3号→2号节点工程"
+    },
+    {
+      "source": "story/pending_hooks.md#H005",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "神秘伏笔 | progressing | Ch50+ | 一号节点“青”字石碑"
+    },
+    {
+      "source": "story/pending_hooks.md#H004",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "势力接触 | progressing | Ch45+ | mid-arc | 城北军区接触（陆焚迷彩服来自城北军区外围）"
+    },
+    {
+      "source": "story/pending_hooks.md#H003",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "目标伏笔 | progressing | Ch42-45 | mid-arc | 地下管网四节点连通计划"
+    }
+  ]
+}

@@ -1,254 +1,46 @@
 [
-  {
-    "number": 1,
-    "title": "重生",
-    "status": "ready-for-review",
-    "wordCount": 2280
-  },
-  {
-    "number": 2,
-    "title": "规则",
-    "status": "ready-for-review",
-    "wordCount": 2480
-  },
-  {
-    "number": 3,
-    "title": "扫货",
-    "status": "ready-for-review",
-    "wordCount": 2420
-  },
-  {
-    "number": 4,
-    "title": "种子",
-    "status": "ready-for-review",
-    "wordCount": 2450
-  },
-  {
-    "number": 5,
-    "title": "异常",
-    "status": "ready-for-review",
-    "wordCount": 2500
-  },
-  {
-    "number": 6,
-    "title": "白色轿车",
-    "status": "ready-for-review",
-    "wordCount": 2480
-  },
-  {
-    "number": 7,
-    "title": "军医",
-    "status": "ready-for-review",
-    "wordCount": 2450
-  },
-  {
-    "number": 8,
-    "title": "应急仓库",
-    "status": "ready-for-review",
-    "wordCount": 2480
-  },
-  {
-    "number": 9,
-    "title": "收网",
-    "status": "ready-for-review",
-    "wordCount": 2500
-  },
-  {
-    "number": 10,
-    "title": "底线",
-    "status": "ready-for-review",
-    "wordCount": 2500
-  },
-  {
-    "number": 11,
-    "title": "救人",
-    "status": "ready-for-review",
-    "wordCount": 2480
-  },
-  {
-    "number": 12,
-    "title": "名单",
-    "status": "ready-for-review",
-    "wordCount": 2450
-  },
-  {
-    "number": 13,
-    "title": "渠道",
-    "status": "ready-for-review",
-    "wordCount": 2420
-  },
-  {
-    "number": 14,
-    "title": "功德",
-    "status": "ready-for-review",
-    "wordCount": 2480
-  },
-  {
-    "number": 15,
-    "title": "名单上的最后一人",
-    "status": "ready-for-review",
-    "wordCount": 2500
-  },
-  {
-    "number": 16,
-    "title": "第七个",
-    "status": "ready-for-review",
-    "wordCount": 3500
-  },
-  {
-    "number": 17,
-    "title": "备用仓库",
-    "status": "ready-for-review",
-    "wordCount": 2400
-  },
-  {
-    "number": 18,
-    "title": "缺口",
-    "status": "ready-for-review",
-    "wordCount": 2800
-  },
-  {
-    "number": 19,
-    "title": "逼近",
-    "status": "ready-for-review",
-    "wordCount": 2500
-  },
-  {
-    "number": 20,
-    "title": "最后一周",
-    "status": "ready-for-review",
-    "wordCount": 2700
-  },
-  {
-    "number": 21,
-    "title": "十月十五日",
-    "status": "ready-for-review",
-    "wordCount": 2400
-  },
-  {
-    "number": 22,
-    "title": "第一道门",
-    "status": "ready-for-review",
-    "wordCount": 2450
-  },
-  {
-    "number": 23,
-    "title": "十个人",
-    "status": "ready-for-review",
-    "wordCount": 2500
-  },
-  {
-    "number": 24,
-    "title": "水源",
-    "status": "ready-for-review",
-    "wordCount": 2400
-  },
-  {
-    "number": 25,
-    "title": "医院",
-    "status": "ready-for-review",
-    "wordCount": 2500
-  },
-  {
-    "number": 26,
-    "title": "共振",
-    "status": "ready-for-review",
-    "wordCount": 2350
-  },
-  {
-    "number": 27,
-    "title": "第一天",
-    "status": "ready-for-review",
-    "wordCount": 2400
-  },
-  {
-    "number": 28,
-    "title": "围墙",
-    "status": "ready-for-review",
-    "wordCount": 2300
-  },
-  {
-    "number": 29,
-    "title": "赵明远",
-    "status": "ready-for-review",
-    "wordCount": 2450
-  },
-  {
-    "number": 30,
-    "title": "基建",
-    "status": "ready-for-review",
-    "wordCount": 2350
-  },
-  {
-    "number": 31,
-    "title": "第一次尸潮",
-    "status": "ready-for-review",
-    "wordCount": 2400
-  },
-  {
-    "number": 32,
-    "title": "豆芽",
-    "status": "ready-for-review",
-    "wordCount": 2250
-  },
-  {
-    "number": 33,
-    "title": "巡逻",
-    "status": "ready-for-review",
-    "wordCount": 2300
-  },
-  {
-    "number": 34,
-    "title": "信号",
-    "status": "ready-for-review",
-    "wordCount": 2350
-  },
-  {
-    "number": 35,
-    "title": "林雪的能力",
-    "status": "ready-for-review",
-    "wordCount": 2400
-  },
-  {
-    "number": 36,
-    "title": "规律",
-    "status": "ready-for-review",
-    "wordCount": 2350
-  },
-  {
-    "number": 37,
-    "title": "收编",
-    "status": "ready-for-review",
-    "wordCount": 2450
-  },
-  {
-    "number": 38,
-    "title": "地下管网",
-    "status": "ready-for-review",
-    "wordCount": 2400
-  },
-  {
-    "number": 39,
-    "title": "第二波",
-    "status": "ready-for-review",
-    "wordCount": 2350
-  },
-  {
-    "number": 40,
-    "title": "满月",
-    "status": "ready-for-review",
-    "wordCount": 2500
-  },
-  {
-    "number": 41,
-    "title": "活人",
-    "status": "ready-for-review",
-    "wordCount": 2900
-  },
-  {
-    "number": 42,
-    "title": "铁门之后",
-    "status": "ready-for-review",
-    "wordCount": 2800
-  }
+  {"number":1,"title":"重生","status":"ready-for-review","wordCount":2280},
+  {"number":2,"title":"规则","status":"ready-for-review","wordCount":2480},
+  {"number":3,"title":"扫货","status":"ready-for-review","wordCount":2420},
+  {"number":4,"title":"种子","status":"ready-for-review","wordCount":2450},
+  {"number":5,"title":"异常","status":"ready-for-review","wordCount":2500},
+  {"number":6,"title":"白色轿车","status":"ready-for-review","wordCount":2480},
+  {"number":7,"title":"军医","status":"ready-for-review","wordCount":2450},
+  {"number":8,"title":"应急仓库","status":"ready-for-review","wordCount":2480},
+  {"number":9,"title":"收网","status":"ready-for-review","wordCount":2500},
+  {"number":10,"title":"底线","status":"ready-for-review","wordCount":2500},
+  {"number":11,"title":"救人","status":"ready-for-review","wordCount":2480},
+  {"number":12,"title":"名单","status":"ready-for-review","wordCount":2450},
+  {"number":13,"title":"渠道","status":"ready-for-review","wordCount":2420},
+  {"number":14,"title":"功德","status":"ready-for-review","wordCount":2480},
+  {"number":15,"title":"名单上的最后一人","status":"ready-for-review","wordCount":2500},
+  {"number":16,"title":"第七个","status":"ready-for-review","wordCount":3500},
+  {"number":17,"title":"备用仓库","status":"ready-for-review","wordCount":2400},
+  {"number":18,"title":"缺口","status":"ready-for-review","wordCount":2800},
+  {"number":19,"title":"逼近","status":"ready-for-review","wordCount":2500},
+  {"number":20,"title":"最后一周","status":"ready-for-review","wordCount":2700},
+  {"number":21,"title":"十月十五日","status":"ready-for-review","wordCount":2400},
+  {"number":22,"title":"第一道门","status":"ready-for-review","wordCount":2450},
+  {"number":23,"title":"十个人","status":"ready-for-review","wordCount":2500},
+  {"number":24,"title":"水源","status":"ready-for-review","wordCount":2400},
+  {"number":25,"title":"医院","status":"ready-for-review","wordCount":2500},
+  {"number":26,"title":"共振","status":"ready-for-review","wordCount":2350},
+  {"number":27,"title":"第一天","status":"ready-for-review","wordCount":2400},
+  {"number":28,"title":"围墙","status":"ready-for-review","wordCount":2300},
+  {"number":29,"title":"赵明远","status":"ready-for-review","wordCount":2450},
+  {"number":30,"title":"基建","status":"ready-for-review","wordCount":2350},
+  {"number":31,"title":"第一次尸潮","status":"ready-for-review","wordCount":2400},
+  {"number":32,"title":"豆芽","status":"ready-for-review","wordCount":2250},
+  {"number":33,"title":"巡逻","status":"ready-for-review","wordCount":2300},
+  {"number":34,"title":"信号","status":"ready-for-review","wordCount":2350},
+  {"number":35,"title":"林雪的能力","status":"ready-for-review","wordCount":2400},
+  {"number":36,"title":"规律","status":"ready-for-review","wordCount":2350},
+  {"number":37,"title":"收编","status":"ready-for-review","wordCount":2450},
+  {"number":38,"title":"地下管网","status":"ready-for-review","wordCount":2400},
+  {"number":39,"title":"第二波","status":"ready-for-review","wordCount":2350},
+  {"number":40,"title":"满月","status":"ready-for-review","wordCount":2500},
+  {"number":41,"title":"活人","status":"ready-for-review","wordCount":2900},
+  {"number":42,"title":"铁门之后","status":"ready-for-review","wordCount":2800},
+  {"number":43,"title":"开会","status":"ready-for-review","wordCount":3100},
+  {"number":44,"title":"七人","status":"ready-for-review","wordCount":3200}
 ]
