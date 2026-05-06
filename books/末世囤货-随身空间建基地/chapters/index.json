@@ -42,5 +42,7 @@
   {"number":41,"title":"活人","status":"ready-for-review","wordCount":2900},
   {"number":42,"title":"铁门之后","status":"ready-for-review","wordCount":2800},
   {"number":43,"title":"开会","status":"ready-for-review","wordCount":3100},
-  {"number":44,"title":"七人","status":"ready-for-review","wordCount":3200}
+  {"number":44,"title":"七人","status":"ready-for-review","wordCount":3200},
+  {"number":45,"title":"通道","status":"ready-for-review","wordCount":3100},
+  {"number":46,"title":"对讲机","status":"ready-for-review","wordCount":3200}
 ]

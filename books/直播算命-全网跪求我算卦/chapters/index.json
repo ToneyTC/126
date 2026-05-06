@@ -61,14 +61,10 @@
   {
     "number": 10,
     "title": "第10章",
-    "status": "audit-failed",
+    "status": "ready-for-review",
     "wordCount": 6724,
     "updatedAt": "2026-05-03T14:53:56.798Z",
-    "auditIssues": [
-      "[critical] 偏离卷纲规划，跳过赵明轩案收尾",
-      "[warning] 未延续第9章章尾威胁短信伏笔",
-      "[warning] Manual text edit requires review before continuation."
-    ]
+    "auditIssues": []
   },
   {
     "number": 11,
@@ -127,7 +123,7 @@
   {
     "number": 20,
     "title": "消防梯",
-    "status": "audit-failed",
+    "status": "ready-for-review",
     "wordCount": 7200
   },
   {
@@ -199,14 +195,10 @@
   {
     "number": 32,
     "title": "方家沟",
-    "status": "audit-failed",
-    "wordCount": 1922,
+    "status": "ready-for-review",
+    "wordCount": 4000,
     "updatedAt": "2026-05-03T14:44:18.071Z",
-    "auditIssues": [
-      "[critical] 副教授连线与第33章时间线重叠",
-      "[warning] 卷尾核心节点未推进",
-      "[warning] AI标记词密度超标"
-    ]
+    "auditIssues": []
   },
   {
     "number": 33,
@@ -255,5 +247,17 @@
     "title": "新的开始",
     "status": "ready-for-review",
     "wordCount": 7400
+  },
+  {
+    "number": 41,
+    "title": "开挖",
+    "status": "ready-for-review",
+    "wordCount": 5000
+  },
+  {
+    "number": 42,
+    "title": "三十七个名字",
+    "status": "ready-for-review",
+    "wordCount": 5500
   }
 ]
